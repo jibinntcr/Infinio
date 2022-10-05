@@ -95,92 +95,84 @@
                 <div class="row g-5 position-relative">
                     <div class="col-lg-6 pe-lg-5">
                         <div class="row gy-3 gx-5">
-                            <div class="col-sm-12 wow fadeIn" data-wow-delay="0.1s">
+
+                            <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
                                 <div class="bg-light rounded row p-4 align-items-center">
                                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <img class="rcorners4 img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/digital-marketing.png" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-
+                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-education.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Education</h4>
-                                        <p class="mb-0">For global manufacturers involved in IIoT Vending and Locker Systems, Lanware innovates to provide unmatched...</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
-                                    </div>
-                                </div>
-                                <!-- <div class="bg-light rounded  p-4">
-                                    <div class="d-flex align-items-center">
-                                        <img class="img-fluid flex-shrink-0 rcorners4" src="../img/industry-education.png">
-                                        <div class="ps-3">
-                                            <h4 class="fw-bold mb-1">Education</h4>
-                                            <small>For global manufacturers involved in IIoT Vending and Locker Systems, Lanware innovates to provide unmatched...</small>
-                                            </br>
-                                            <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Search</button>
-                                        </div>
-                                    </div>
-                                </div> -->
-                            </div>
-
-                            <div class="col-sm-12 wow fadeIn" data-wow-delay="0.1s">
-                                <div class="bg-light rounded row p-4 align-items-center">
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <img class="rcorners4 img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/digital-marketing.png" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <h4 class="fw-bold mb-1">E-Governance</h4>
-                                        <p class="mb-0">For global manufacturers involved in IIoT Vending and Locker Systems, Lanware innovates to provide unmatched...</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="education.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-sm-12 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
                                 <div class="bg-light rounded row p-4 align-items-center">
                                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <img class="rcorners4 img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/industry-education.png" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-e-governance.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
                                     </div>
                                     <div class="col-lg-6">
-                                        <h4 class="fw-bold mb-1">Real Estate</h4>
-                                        <p class="mb-0">For global manufacturers involved in IIoT Vending and Locker Systems, Lanware innovates to provide unmatched...</p>
+                                        <h4 class="fw-bold mb-1">e-Governance</h4>
+                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
                                         <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
+                                <div class="bg-light rounded row p-4 align-items-center">
+                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/retail and e-commerce.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <h4 class="fw-bold mb-1">Retail &amp; e-Commerce</h4>
+                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
                         </div>
                     </div>
                     <div class="col-lg-6 ps-lg-5">
                         <div class="row gy-3 gx-5">
-                            <div class="col-sm-12 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
                                 <div class="bg-light rounded row p-4 align-items-center">
                                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <img class="rcorners4 img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/digital-marketing.png" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/realEstate.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <h4 class="fw-bold mb-1">Real Estate</h4>
+                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
+                                <div class="bg-light rounded row p-4 align-items-center">
+                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/healthCare.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Health Care</h4>
-                                        <p class="mb-0">For global manufacturers involved in IIoT Vending and Locker Systems, Lanware innovates to provide unmatched...</p>
+                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
                                         <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
                                 <div class="bg-light rounded row p-4 align-items-center">
                                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <img class="rcorners4 img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/digital-marketing.png" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/building automation.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Building Automation</h4>
-                                        <p class="mb-0">For global manufacturers involved in IIoT Vending and Locker Systems, Lanware innovates to provide unmatched...</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 wow fadeIn" data-wow-delay="0.1s">
-                                <div class="bg-light rounded row p-4 align-items-center">
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <img class="rcorners4 img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/digital-marketing.png" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <h4 class="fw-bold mb-1">Reatail &amp; E-Commerce</h4>
-                                        <p class="mb-0">For global manufacturers involved in IIoT Vending and Locker Systems, Lanware innovates to provide unmatched...</p>
+                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
                                         <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
                                     </div>
                                 </div>

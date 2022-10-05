@@ -56,7 +56,7 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <div class="navbar-nav ms-auto py-0">
             <div class="nav-item dropdown">
-              <a href="services.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
               <div class="dropdown-menu m-0">
                 <a href="services/web-application-dev.php" class="dropdown-item">Web Application Development</a>
                 <a href="services/enterprise-application-development-services.php" class="dropdown-item">Enterprise Application Development</a>
@@ -71,7 +71,7 @@
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
               <div class="dropdown-menu m-0">
-                <a href="team.html" class="dropdown-item">Education</a>
+                <a href="industries/education.php" class="dropdown-item">Education</a>
                 <a href="testimonial.html" class="dropdown-item">E-Governance</a>
                 <a href="comparison.html" class="dropdown-item">Retail and E-commerce</a>
                 <a href="team.html" class="dropdown-item">Real Estate</a>

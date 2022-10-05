@@ -656,7 +656,22 @@ h6,
     border-radius: 15px;
     background: #ffffff00;
     padding: 20px;
-   
+
 }
+
+.para-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.rcorners2 {
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #5a595993;
+    padding: 20px;
+    width: 100%;
+    height: auto;
+}
+
 
 /* end of features 8*/
