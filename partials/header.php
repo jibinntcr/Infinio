@@ -27,14 +27,14 @@
                 <a href="industries/index.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
                 <div class="dropdown-menu m-0">
                     <a href="../industries/education.php" class="dropdown-item">Education</a>
-                    <a href="testimonial.html" class="dropdown-item">E-Governance</a>
-                    <a href="comparison.html" class="dropdown-item">Retail and E-commerce</a>
-                    <a href="team.html" class="dropdown-item">Real Estate</a>
-                    <a href="testimonial.html" class="dropdown-item">Health Care</a>
-                    <a href="comparison.html" class="dropdown-item">Building Automation</a>
+                    <a href="../industries/e-governance.php" class="dropdown-item">E-Governance</a>
+                    <a href="../industries/retail-and-ecommerce.php" class="dropdown-item">Retail and E-commerce</a>
+                    <a href="../industries/real-estate.php" class="dropdown-item">Real Estate</a>
+                    <a href="../industries/health-care.php" class="dropdown-item">Health Care</a>
+                    <a href="../industries/building-automation.php" class="dropdown-item">Building Automation</a>
                 </div>
             </div>
-            <a href="index.html" class="nav-item nav-link">Technologies</a>
+            <a href="../technologies/index.php" class="nav-item nav-link">Technologies</a>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Company</a>
                 <div class="dropdown-menu m-0">

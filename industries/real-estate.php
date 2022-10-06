@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Education | Infinio Technology Solutions</title>
+    <title>Real Estate| Infinio Technology Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -58,7 +58,7 @@
                                     <li class="breadcrumb-item">
                                         <a class="text-white" href="index.php">Industries</a>
                                     </li>
-                                    <li class="breadcrumb-item text-white active" aria-current="page">Education</li>
+                                    <li class="breadcrumb-item text-white active" aria-current="page">Real Estate</li>
                                 </ol>
                             </nav>
                         </div>
@@ -94,7 +94,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="section-title position-relative mb-4 pb-4">
-                            <h1 class="mb-2">Education</h1>
+                            <h1 class="mb-2">Real Estate</h1>
                         </div>
                         <p class="para-justify" class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
                     </div>
@@ -113,7 +113,7 @@
                     <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
                         <div class="rcorners2 position-relative row-card-ind p-4 ">
                             <div class="col-lg-6 wow fadeInUp mb-0" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                <img class="rounded img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/ed-card.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                <img class="rounded img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/re-card.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
                             </div>
                             <div class="col-lg-6 ">
                                 <!-- <h4 class="fw-bold mb-1">e-Governance</h4> -->

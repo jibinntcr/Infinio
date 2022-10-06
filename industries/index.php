@@ -117,7 +117,7 @@
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">e-Governance</h4>
                                         <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                        <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="e-governance.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Retail &amp; e-Commerce</h4>
                                         <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                        <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="retail-and-ecommerce.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -149,7 +149,7 @@
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Real Estate</h4>
                                         <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                        <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="real-estate.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Health Care</h4>
                                         <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                        <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="health-care.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -173,7 +173,7 @@
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Building Automation</h4>
                                         <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                        <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button>
+                                        <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="building-automation.php">Read More</a>
                                     </div>
                                 </div>
                             </div>

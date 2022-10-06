@@ -16,7 +16,7 @@
                             <div class="col-lg-6 ">
                                 <h4 class="fw-bold mb-1 px-4">Education</h4>
                                 <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="education.php">Read More</a>
+                                <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/education.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,8 @@
                             <div class="col-lg-6">
                                 <h4 class="fw-bold mb-1 px-4">e-Governance</h4>
                                 <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                <button type="button" class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4">Read more</button>
+                                <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/e-governance.php">Read More</a>
+
                             </div>
                         </div>
                     </div>
@@ -46,7 +47,7 @@
                             <div class="col-lg-6">
                                 <h4 class="fw-bold mb-1 px-4">Real Estate</h4>
                                 <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                <button type="button" class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4">Read more</button>
+                                <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/real-estate.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -58,7 +59,7 @@
                             <div class="col-lg-6">
                                 <h4 class="fw-bold mb-1 px-4">Health Care</h4>
                                 <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
-                                <button type="button" class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4">Read more</button>
+                                <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/health-care.php">Read More</a>
                             </div>
                         </div>
                     </div>
