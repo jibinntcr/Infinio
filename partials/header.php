@@ -38,9 +38,9 @@
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Company</a>
                 <div class="dropdown-menu m-0">
-                    <a href="team.html" class="dropdown-item">About us</a>
-                    <a href="testimonial.html" class="dropdown-item">Leadership</a>
-                    <a href="comparison.html" class="dropdown-item">Life at Infinio</a>
+                    <a href="../company/about.php" class="dropdown-item">About us</a>
+                    <a href="../company/team.php" class="dropdown-item">Leadership</a>
+                    <!-- <a href="comparison.html" class="dropdown-item">Life at Infinio</a> -->
                     <a href="comparison.html" class="dropdown-item">Careers</a>
                 </div>
             </div>

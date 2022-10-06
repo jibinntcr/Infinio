@@ -89,155 +89,311 @@
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
                 <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
-                    <h1 class="mb-3">SERVICE OFFERINGS</h1>
-                    <!-- <p class="mb-1">
-                        Vero justo sed sed vero clita amet. Et justo vero sea diam elitr
-                        amet ipsum eos ipsum clita duo sed. Sed vero sea diam erat vero
-                        elitr sit clita.
-                    </p> -->
+                    <h1 class="mb-3">TECHNOLOGIES</h1>
                 </div>
-                <div class="row gy-5 gx-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-desktop text-white"></i>
-                            </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Web Application Development</h4>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
 
-                                <a class="btn btn-primary px-4 py-2" href="web-application-dev.php">Read More</a>
+                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                    <h3 class="bg-dark text-white rounded mb-3">WEB</h3>
+                </div>
+                <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class=" row gy-5 gx-4">
+                        <h5 class="text-center py-3 wow fadeInUp" data-wow-delay="0.1s">BACKEND</h5>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-cogs text-white"></i>
+                    <div class="row gy-5 gx-4">
+                        <h5 class="text-center py-3">FRONTEND</h5>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Enterprise Application Development</h4>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
-
-                                <a class="btn btn-primary px-4 py-2" href="enterprise-application-development-services.php">Read More</a>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-code text-white"></i>
-                            </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Custom Application Development</h4>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
+                </div>
 
-                                <a class="btn btn-primary px-4 py-2" href="custom-application-development.php">Read More</a>
+                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                    <h3 class="bg-dark text-white rounded mb-3">MOBILE</h3>
+                </div>
+                <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class=" row gy-5 gx-4">
+                        <!-- <h5 class="text-center py-3 wow fadeInUp" data-wow-delay="0.1s">BACKEND</h5> -->
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-code text-white"></i>
+                </div>
+                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                    <h3 class="bg-dark text-white rounded mb-3">DATABASE</h3>
+                </div>
+                <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class=" row gy-5 gx-4">
+                        <!-- <h5 class="text-center py-3 wow fadeInUp" data-wow-delay="0.1s">BACKEND</h5> -->
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Internet Of Things</h4>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
-
-                                <a class="btn btn-primary px-4 py-2" href="internet-of-things.php">Read More</a>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-code text-white"></i>
-                            </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Digital Marketing</h4>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
-
-                                <a class="btn btn-primary px-4 py-2" href="digital-marketing.php">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-code text-white"></i>
-                            </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Technology Training</h4>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
-
-                                <a class="btn btn-primary px-4 py-2" href="technology-training.php">Read More</a>
+                </div>
+                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                    <h3 class="bg-dark text-white rounded mb-3">DATA SCIENCE</h3>
+                </div>
+                <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class=" row gy-5 gx-4">
+                        <!-- <h5 class="text-center py-3 wow fadeInUp" data-wow-delay="0.1s">BACKEND</h5> -->
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow mx-autol fadeInUp mb-5" data-wow-delay="0.6s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-code text-white"></i>
-                            </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Mobile Application Development</h4>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
-
-                                <a class="btn btn-primary px-4 py-2" href="mobile-application-development.php">Read More</a>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp mx-autor mb-5" data-wow-delay="0.6s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
-                                <i class="fa fa-code text-white"></i>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <h4 class="fw-bold">Learning Management System</h4>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
-                            <div class="text-center border-bottom p-4">
-                                <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
-                                </p>
-
-                                <a class="btn btn-primary px-4 py-2" href="learning-management-system.php">Read More</a>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
