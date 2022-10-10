@@ -86,16 +86,16 @@
                 <a href="company/about.php" class="dropdown-item">About us</a>
                 <a href="company/team.php" class="dropdown-item">Leadership</a>
                 <!-- <a href="comparison.html" class="dropdown-item">Life at Infinio</a> -->
-                <a href="comparison.html" class="dropdown-item">Careers</a>
+                <!-- <a href="comparison.html" class="dropdown-item">Careers</a> -->
               </div>
             </div>
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Insight</a>
               <div class="dropdown-menu m-0">
-                <a href="team.html" class="dropdown-item">Blog</a>
+                <a href="insight/blog.php" class="dropdown-item">Blog</a>
               </div>
             </div>
-            <a href="about.html" class="nav-item nav-link">Contact</a>
+            <a href="contact/index.php" class="nav-item nav-link">Contact</a>
           </div>
           <!-- <butaton type="button" class="btn text-secondary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal">
                             <i class="fa fa-search"></i>
