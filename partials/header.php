@@ -41,11 +41,11 @@
                     <a href="../company/about.php" class="dropdown-item">About us</a>
                     <a href="../company/team.php" class="dropdown-item">Leadership</a>
                     <!-- <a href="comparison.html" class="dropdown-item">Life at Infinio</a> -->
-                    <!-- <a href="comparison.html" class="dropdown-item">Careers</a> -->
+                    <a href="../company/careers.php" class="dropdown-item">Careers</a>
                 </div>
             </div>
             <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Insight</a>
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Insights</a>
                 <div class="dropdown-menu m-0">
                     <a href="../insight/blog.php" class="dropdown-item">Blog</a>
                 </div>

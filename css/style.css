@@ -423,7 +423,7 @@ h6,
 /************************/
 .tabs {
     /* padding-top: 8rem; */
-    padding-bottom: 8.125rem;
+    /* padding-bottom: 8.125rem; */
     /* background-color: #f3f7fd; */
 }
 
@@ -677,3 +677,12 @@ h6,
 .banner-link {
     color: #ffd30d;
 }
+#wrapper {
+    background: #ccc;
+    overflow: hidden;
+    transition: max-height 300ms;
+    max-height: 0; /* <---hide by default */
+  }
+  #wrapper.open {
+    max-height: 100px; /* <---when open, allow content to expand to take up as much height as it needs, up to e.g. 100px */
+  }
