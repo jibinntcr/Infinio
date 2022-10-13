@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -96,7 +96,8 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">Internet Of Things</h1>
                         </div>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="mb-4 para-justify">The idea of IoT is possibly one of the most revolutionary and innovative advancements in the field of information technology. IoT goes beyond conventional networking jargon to link a variety of household goods and gadgets that affect daily life. In layman's terms, it all comes down to linking devices with specified functions, such as hospital devices, street lights, traffic signals, and more.
+                            As an IoT application development company, Infinio Technology Solutions offers IoT development services to businesses and companies in the consumer electronics industry. With the aid of sensors, programming, and IoT platforms, we assist our clients in creating smart devices and support them while they undergo digital transformation. We also provide the necessary infrastructure (embedded, mobile, and online) for specialized IoT solutions.</p>
                         <!-- <div class="row g-3">
                             <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                                 <div class="bg-light rounded text-center p-4">

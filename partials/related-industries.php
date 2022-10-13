@@ -15,7 +15,7 @@
                             </div>
                             <div class="col-lg-6 ">
                                 <h4 class="fw-bold mb-1 px-4">Education</h4>
-                                <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                <p class="mb-0 para-justify px-4">Students from various parts of the world may obtain certificates by taking courses thanks to Infinio...</p>
                                 <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/education.php">Read More</a>
                             </div>
                         </div>
@@ -28,7 +28,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <h4 class="fw-bold mb-1 px-4">e-Governance</h4>
-                                <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                <p class="mb-0 para-justify px-4">Infinio Technology Solutions offers a full spectrum of eGovernance solutions not only by solving the...</p>
                                 <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/e-governance.php">Read More</a>
 
                             </div>
@@ -46,7 +46,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <h4 class="fw-bold mb-1 px-4">Real Estate</h4>
-                                <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                <p class="mb-0 para-justify px-4">Infinio Technology Solutions is in a unique position to transfer the most complicated real estate ..</p>
                                 <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/real-estate.php">Read More</a>
                             </div>
                         </div>
@@ -58,7 +58,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <h4 class="fw-bold mb-1 px-4">Health Care</h4>
-                                <p class="mb-0 para-justify px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                <p class="mb-0 para-justify px-4">By connecting devices, facilitating communication between them, and storing and retrieving crucial...</p>
                                 <a class="btn btn-primary py-2 px-4 mt-2 me-2 ms-4" href="../industries/health-care.php">Read More</a>
                             </div>
                         </div>

@@ -13,33 +13,40 @@
                 <div class="row gy-5 g-4">
                     <div class="col-md-6">
                         <h5 class="fw-bold text-white mb-4">Services</h5>
-                        <a class="btn btn-link" href="">About Us</a>
-                        <a class="btn btn-link" href="">Contact Us</a>
-                        <a class="btn btn-link" href="">Privacy Policy</a>
-                        <a class="btn btn-link" href="">Terms & Condition</a>
-                        <a class="btn btn-link" href="">Support</a>
+                        <a class="btn btn-link" href="../services/web-application-dev.php">Web Application Development</a>
+                        <a class="btn btn-link" href="../services/enterprise-application-development-services.php">Enterprices Application Development</a>
+                        <a class="btn btn-link" href="../services/custom-application-development.php">Custom Software Application Development</a>
+                        <a class="btn btn-link" href="../services/internet-of-things.php">Internet Of Things</a>
+                        <a class="btn btn-link" href="../services/digital-marketing.php">Digital Marketing</a>
+                        <a class="btn btn-link" href="../services/mobile-application-development.php">Mobile Application Development</a>
+                        <a class="btn btn-link" href="../services/learning-management-system.php">Learning Management System</a>
+                        <a class="btn btn-link" href="../services/technology-training.php">Technology Training</a>
                     </div>
                     <div class="col-md-6">
                         <h5 class="fw-bold text-white mb-4">Industries</h5>
-                        <a class="btn btn-link" href="">Domain Register</a>
-                        <a class="btn btn-link" href="">Shared Hosting</a>
-                        <a class="btn btn-link" href="">VPS Hosting</a>
-                        <a class="btn btn-link" href="">Dedicated Hosting</a>
-                        <a class="btn btn-link" href="">Reseller Hosting</a>
+                        <a class="btn btn-link" href="../industries/education.php">Education</a>
+                        <a class="btn btn-link" href="../industries/e-governance.php">E-Governance</a>
+                        <a class="btn btn-link" href="../industries/retail-and-ecommerce.php">Retail and E-commerce</a>
+                        <a class="btn btn-link" href="../industries/real-estate.php">Real Estate</a>
+                        <a class="btn btn-link" href="../industries/health-care.php">Health Care</a>
+                        <a class="btn btn-link" href="../industries/building-automation.php">Building Automation</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <h5 class="fw-bold text-white mb-4">Get In Touch</h5>
                 <p class="mb-2">
-                    <i class="fa fa-map-marker-alt me-3"></i>123 Street, New York,
-                    USA
+                    2<sup>nd</sup> Floor Vimala Building,Thrissur. Kerala, India.
                 </p>
                 <p class="mb-2">
-                    <i class="fa fa-phone-alt me-3"></i>+012 345 67890
+                    <i class="fas fa-phone-alt me-3"></i>+91 - 4872426638
                 </p>
                 <p class="mb-2">
-                    <i class="fa fa-envelope me-3"></i>info@example.com
+                    <i class="fa fa-mobile me-3"></i>+91 - 9496839168
+                </p>
+                <p class="mb-2">
+                    <i class="fa fa-envelope me-3"></i>info@infinio.co.in
+
                 </p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-outline-light btn-social" href="">

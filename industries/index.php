@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>GreenHost - Web Hosting HTML Template</title>
+    <title>Industries | Infinio Technology Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -103,7 +103,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Education</h4>
-                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <p class="mb-0 para-justify">Students from various parts of the world may obtain certificates by taking courses thanks to Infinio...</p>
                                         <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="education.php">Read More</a>
                                     </div>
                                 </div>
@@ -116,7 +116,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">e-Governance</h4>
-                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <p class="mb-0 para-justify">Infinio Technology Solutions offers a full spectrum of eGovernance solutions not only by solving the...</p>
                                         <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="e-governance.php">Read More</a>
                                     </div>
                                 </div>
@@ -128,7 +128,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Retail &amp; e-Commerce</h4>
-                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <p class="mb-0 para-justify">We offer cutting-edge retail and e-commerce solutions that encourage corporate growth and empower..</p>
                                         <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="retail-and-ecommerce.php">Read More</a>
                                     </div>
                                 </div>
@@ -148,7 +148,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Real Estate</h4>
-                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <p class="mb-0 para-justify">Infinio Technology Solutions is in a unique position to transfer the most complicated real estate ..</p>
                                         <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="real-estate.php">Read More</a>
                                     </div>
                                 </div>
@@ -160,7 +160,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Health Care</h4>
-                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <p class="mb-0 para-justify">By connecting devices, facilitating communication between them, and storing and retrieving crucial...</p>
                                         <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="health-care.php">Read More</a>
                                     </div>
                                 </div>
@@ -172,7 +172,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <h4 class="fw-bold mb-1">Building Automation</h4>
-                                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.</p>
+                                        <p class="mb-0 para-justify">Our expertise in the field of building automation combines ease and technology to enhance the value...</p>
                                         <a class="btn btn-primary py-2 px-3 mt-2 me-2" href="building-automation.php">Read More</a>
                                     </div>
                                 </div>

@@ -3,11 +3,11 @@
     <div class="container px-lg-5">
         <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
             <h1 class="mb-3">RELATED SERVICES</h1>
-            <p class="mb-1">
+            <!-- <p class="mb-1">
                 Vero justo sed sed vero clita amet. Et justo vero sea diam elitr
                 amet ipsum eos ipsum clita duo sed. Sed vero sea diam erat vero
                 elitr sit clita.
-            </p>
+            </p> -->
         </div>
         <div class="row gy-5 gx-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -20,8 +20,7 @@
                     </div>
                     <div class="text-center border-bottom p-4">
                         <p class="mb-5">
-                            Eirmod erat dolor amet est clita lorem erat justo rebum
-                            elitr eos
+                            End-to-end personalized web application development employs a methodical approach that keeps...
                         </p>
 
                         <a class="btn btn-primary px-4 py-2" href="./web-application-dev.php">Read More</a>
@@ -38,8 +37,7 @@
                     </div>
                     <div class="text-center border-bottom p-4">
                         <p class="mb-5">
-                            Eirmod erat dolor amet est clita lorem erat justo rebum
-                            elitr eos
+                            Many off-the-shelf solutions would be unable to fulfil the precise business requirements of a large..
                         </p>
 
                         <a class="btn btn-primary px-4 py-2" href="./enterprise-application-development-services.php">Read More</a>
@@ -56,8 +54,7 @@
                     </div>
                     <div class="text-center border-bottom p-4">
                         <p class="mb-5">
-                            Eirmod erat dolor amet est clita lorem erat justo rebum
-                            elitr eos
+                            Partner with Infinio to create unique and cost-effective software solutions for increasing business...
                         </p>
 
                         <a class="btn btn-primary px-4 py-2" href="./custom-application-development.php">Read More</a>

@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -94,13 +94,14 @@
                     <h1 class="mb-3">CONTACT</h1>
                 </div>
                 <div class="row g-5">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="section-title position-relative mx-auto mb-4 pb-4">
                             <h3 class="fw-bold mb-0">INDIA</h3>
                         </div>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@example.com</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>2nd Floor Vimala Building,</br>Thrissur. Kerala, India.</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+91 - 4872426638</p>
+                        <p class="mb-2"><i class="fa fa-mobile-alt text-primary me-3"></i>+91 - 9496839168</p>
+                        <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@infinio.co.in</p>
                         <div class="pt-4 section-title position-relative mx-auto mb-4 pb-4">
                             <h3 class="fw-bold mb-0">CANEDA</h3>
                         </div>
@@ -109,10 +110,10 @@
                         <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@example.com</p>
 
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                    <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                         <iframe class="position-relative rounded w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.645178526911!2d76.32375311476514!3d10.04610989281956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c30d4ca4cff%3A0x6af14597a4b11a2a!2sDepartment%20of%20Computer%20Applications!5e0!3m2!1sen!2sin!4v1651077849312!5m2!1sen!2sin" frameborder="0" style="min-height: 300px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <!-- <div class="col-lg-4 col-md-4">
                         <div class="wow fadeInUp" data-wow-delay="0.2s">
                             <form>
                                 <div class="row g-3">
@@ -146,7 +147,7 @@
                                 </div>
                             </form>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

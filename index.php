@@ -9,7 +9,7 @@
   <meta content="" name="description" />
 
   <!-- Favicon -->
-  <link href="img/favicon.ico" rel="icon" />
+  <link href="img/favi.png" rel="icon" />
 
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -56,7 +56,7 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <div class="navbar-nav ms-auto py-0">
             <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+              <a href="services/services.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
               <div class="dropdown-menu m-0">
                 <a href="services/web-application-dev.php" class="dropdown-item">Web Application Development</a>
                 <a href="services/enterprise-application-development-services.php" class="dropdown-item">Enterprise Application Development</a>
@@ -86,7 +86,7 @@
                 <a href="company/about.php" class="dropdown-item">About us</a>
                 <a href="company/team.php" class="dropdown-item">Leadership</a>
                 <!-- <a href="comparison.html" class="dropdown-item">Life at Infinio</a> -->
-                <a href="company/careers.php" class="dropdown-item">Careers</a>
+                <!-- <a href="company/careers.php" class="dropdown-item">Careers</a> -->
               </div>
             </div>
             <div class="nav-item dropdown">
@@ -120,7 +120,7 @@
                                     <span>$2.49</span>
                                     <small class="align-bottom fw-normal" style="font-size: 15px; line-height: 33px;">/ Mo</small>
                                 </h1>-->
-              <a href="" class="btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Get Started Now</a>
+              <a href="#startDiv" class="btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Get Started Now</a>
             </div>
             <div class="col-lg-6 text-center text-lg-start">
               <img class="img-fluid animated zoomIn" src="img/hero.png" alt="" />
@@ -197,7 +197,7 @@
           Domain Search End -->
 
     <!-- About Start -->
-    <div class="container-xxl py-5">
+    <div id="startDiv" class="container-xxl py-5">
       <div class="container px-lg-5">
         <div class="row g-5 align-items-center">
           <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.1s">
@@ -247,11 +247,11 @@
       <div class="container px-lg-5">
         <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
           <h1 class="mb-3">SERVICE OFFERINGS</h1>
-          <p class="mb-1">
+          <!-- <p class="mb-1">
             Vero justo sed sed vero clita amet. Et justo vero sea diam elitr
             amet ipsum eos ipsum clita duo sed. Sed vero sea diam erat vero
             elitr sit clita.
-          </p>
+          </p> -->
         </div>
         <div class="row gy-5 gx-4">
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -264,8 +264,8 @@
               </div>
               <div class="text-center border-bottom p-4">
                 <p class="mb-5">
-                  Eirmod erat dolor amet est clita lorem erat justo rebum
-                  elitr eos
+                  End-to-end personalized web application development employs a methodical approach that keeps...
+
                 </p>
 
                 <a class="btn btn-primary px-4 py-2" href="services/web-application-dev.php">Read More</a>
@@ -282,8 +282,7 @@
               </div>
               <div class="text-center border-bottom p-4">
                 <p class="mb-5">
-                  Eirmod erat dolor amet est clita lorem erat justo rebum
-                  elitr eos
+                  Many off-the-shelf solutions would be unable to fulfil the precise business requirements of a large..
                 </p>
 
                 <a class="btn btn-primary px-4 py-2" href="services/enterprise-application-development-services.php">Read More</a>
@@ -300,8 +299,7 @@
               </div>
               <div class="text-center border-bottom p-4">
                 <p class="mb-5">
-                  Eirmod erat dolor amet est clita lorem erat justo rebum
-                  elitr eos
+                  Partner with Infinio to create unique and cost-effective software solutions for increasing business...
                 </p>
 
                 <a class="btn btn-primary px-4 py-2" href="services/custom-application-development.php">Read More</a>
@@ -321,59 +319,52 @@
       <div class="container px-lg-5">
         <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
           <h1 class="mb-3">INDUSTRIES</h1>
-          <p class="mb-1">
+          <!-- <p class="mb-1">
             Vero justo sed sed vero clita amet. Et justo vero sea diam elitr
             amet ipsum eos ipsum clita duo sed. Sed vero sea diam erat vero
             elitr sit clita.
-          </p>
+          </p> -->
         </div>
         <div class="row gy-5 gx-4">
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <i class="fa fa-graduation-cap fa-3x text-primary mb-3"></i>
             <h5 class="fw-bold">EDUCATION</h5>
             <p>
-              Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor
-              ipsum
+              Students from various parts of the world may obtain certificates by taking courses thanks to Infinio...
             </p>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
             <i class="fab fa-internet-explorer fa-3x text-primary mb-3"></i>
             <h5 class="fw-bold">E-GOVERNANCE</h5>
             <p>
-              Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor
-              ipsum
-            </p>
+              Infinio Technology Solutions offers a full spectrum of eGovernance solutions not only by solving the... </p>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
             <i class="fas fa-shopping-cart fa-3x text-primary mb-3"></i>
             <h5 class="fw-bold">RETAIL &amp; E-COMMERCE</h5>
             <p>
-              Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor
-              ipsum
+              We offer cutting-edge retail and e-commerce solutions that encourage corporate growth and empower..
             </p>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
             <i class="fas fa-city fa-3x text-primary mb-3"></i>
             <h5 class="fw-bold">REAL ESTATE</h5>
             <p>
-              Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor
-              ipsum
+              Infinio Technology Solutions is in a unique position to transfer the most complicated real estate ..
             </p>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
             <i class="fas fa-laptop-medical fa-3x text-primary mb-3"></i>
             <h5 class="fw-bold">HEALTH CARE</h5>
             <p>
-              Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor
-              ipsum
+              By connecting devices, facilitating communication between them, and storing and retrieving crucial...
             </p>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
             <i class="far fa-building fa-3x text-primary mb-3"></i>
             <h5 class="fw-bold">BUILDING AUTOMATION</h5>
             <p>
-              Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor
-              ipsum
+              Our expertise in the field of building automation combines ease and technology to enhance the value...
             </p>
           </div>
         </div>
@@ -562,6 +553,9 @@
     <!-- Testimonial Start -->
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
       <div class="container px-lg-5">
+        <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+          <h1 class="mb-3">TESTIMONIAL</h1>
+        </div>
         <div class="owl-carousel testimonial-carousel">
           <div class="testimonial-item position-relative bg-light border-top border-5 border-primary rounded p-4 my-4">
             <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
@@ -633,7 +627,94 @@
     <!-- Testimonial End -->
 
 
-    <?php include('partials/footer.php') ?>
+    <!-- Footer Start -->
+    <div class="container-fluid bg-primary text-white footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+      <div class="container py-5 px-lg-5">
+        <div class="row gy-5 gx-4 pt-5">
+          <!--<div class="col-12">
+                            <h5 class="fw-bold text-white mb-4">Subscribe Our Newsletter</h5>
+                            <div class="position-relative" style="max-width: 400px;">
+                                <input class="form-control bg-white border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Enter your email">
+                                <button type="button" class="btn btn-primary py-2 px-3 position-absolute top-0 end-0 mt-2 me-2">Submit</button>
+                            </div>
+                        </div>-->
+          <div class="col-lg-5 col-md-12">
+            <div class="row gy-5 g-4">
+              <div class="col-md-6">
+                <h5 class="fw-bold text-white mb-4">Services</h5>
+                <a class="btn btn-link" href="services/web-application-dev.php">Web Application Development</a>
+                <a class="btn btn-link" href="services/enterprise-application-development-services.php">Enterprices Application Development</a>
+                <a class="btn btn-link" href="services/custom-application-development.php">Custom Software Application Development</a>
+                <a class="btn btn-link" href="services/internet-of-things.php">Internet Of Things</a>
+                <a class="btn btn-link" href="services/digital-marketing.php">Digital Marketing</a>
+                <a class="btn btn-link" href="services/mobile-application-development.php">Mobile Application Development</a>
+                <a class="btn btn-link" href="services/learning-management-system.php">Learning Management System</a>
+                <a class="btn btn-link" href="services/technology-training.php">Technology Training</a>
+              </div>
+              <div class="col-md-6">
+                <h5 class="fw-bold text-white mb-4">Industries</h5>
+                <a class="btn btn-link" href="industries/education.php">Education</a>
+                <a class="btn btn-link" href="industries/e-governance.php">E-Governance</a>
+                <a class="btn btn-link" href="industries/retail-and-ecommerce.php">Retail and E-commerce</a>
+                <a class="btn btn-link" href="industries/real-estate.php">Real Estate</a>
+                <a class="btn btn-link" href="industries/health-care.php">Health Care</a>
+                <a class="btn btn-link" href=industries/building-automation.php">Building Automation</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <h5 class="fw-bold text-white mb-4">Get In Touch</h5>
+            <p class="mb-2">
+              2<sup>nd</sup> Floor Vimala Building,Thrissur. Kerala, India.
+            </p>
+            <p class="mb-2">
+              <i class="fas fa-phone-alt me-3"></i>+91 - 4872426638
+            </p>
+            <p class="mb-2">
+              <i class="fa fa-mobile me-3"></i>+91 - 9496839168
+            </p>
+            <p class="mb-2">
+              <i class="fa fa-envelope me-3"></i>info@infinio.co.in
+
+            </p>
+            <div class="d-flex pt-2">
+              <a class="btn btn-outline-light btn-social" href="">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a class="btn btn-outline-light btn-social" href="">
+                <i class="fab fa-facebook-f"></i>
+              </a>
+              <a class="btn btn-outline-light btn-social" href="">
+                <i class="fab fa-youtube"></i>
+              </a>
+              <a class="btn btn-outline-light btn-social" href="">
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mt-lg-n5">
+            <div class="bg-light rounded" style="padding: 30px">
+              <input type="text" class="form-control border-0 py-2 mb-2" placeholder="Name" />
+              <input type="email" class="form-control border-0 py-2 mb-2" placeholder="Email" />
+              <textarea class="form-control border-0 mb-2" rows="2" placeholder="Message"></textarea>
+              <button class="btn btn-primary w-100 py-2">Send Message</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container px-lg-5">
+        <div class="copyright">
+          <div class="row">
+            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+              &copy;
+              <a class="border-bottom" href="#">Infinio Technologies</a>, All
+              Right Reserved.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Footer End -->
 
     <!-- Back to Top 
             <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top">

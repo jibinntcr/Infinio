@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -96,7 +96,7 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">Learning Management System</h1>
                         </div>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="mb-4 para-justify">We deliver comprehensive and Customized learning management solutions using Moodle tools. ith the help of the online learning platform Moodle, we design courses, add assignments, and monitor the development of our students. Additionally, it enables you to interact with the students and promote interaction among them in forums and conversations.</p>
                     </div>
                     <div class="col-lg-5">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/e-learning.png">

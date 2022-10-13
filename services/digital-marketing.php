@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -96,7 +96,7 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">Digital Marketing</h1>
                         </div>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="mb-4 para-justify">Whatever it takes, we'll make sure your brand is visible to consumers in this digital age. Social media, SEO, content creation, display advertising, Google AdWords, email marketing, and YouTube ads are all examples of digital marketing.</p>
                         <!-- <div class="row g-3">
                             <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                                 <div class="bg-light rounded text-center p-4">

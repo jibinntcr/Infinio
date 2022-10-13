@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -96,7 +96,9 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">Enterprise Software Development</h1>
                         </div>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="mb-4 para-justify">Many off-the-shelf solutions would be unable to fulfil the precise business requirements of a large number of organisations, as they may not be able to satisfy the unique criteria.
+                        <p class="para-justify">We provide bespoke application development in order to create and develop software solutions that meet the businesses' specific needs. In addition to corporate process management, linked and intelligent technologies, supply chain management, and analytics are among the areas of specialisation.</p>
+                        </p>
                         <!-- <div class="row g-3">
                             <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                                 <div class="bg-light rounded text-center p-4">

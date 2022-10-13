@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -96,7 +96,7 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">Retail &amp; E-Commerce</h1>
                         </div>
-                        <p class="para-justify" class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="para-justify" class="mb-4">We offer cutting-edge retail and e-commerce solutions that encourage corporate growth and empower the economy. With our expertise in offering value-based solutions, we assist corporations in easily growing their businesses.</p>
                     </div>
                     <!-- <div class="col-lg-5">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
@@ -117,7 +117,7 @@
                             </div>
                             <div class="col-lg-6 ">
                                 <!-- <h4 class="fw-bold mb-1">e-Governance</h4> -->
-                                <p class="mb-0 para-justify py-4 px-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
+                                <p class="mb-0 para-justify py-4 px-4">We provide specialized online and mobile applications that power the retail and E-commerce sectors by effortlessly integrating order processing, logistics, and payment gateways for trouble-free operation of mobile enterprises.</p>
                                 <!-- <button type="button" class="btn btn-primary py-2 px-3 mt-2 me-2">Read more</button> -->
                             </div>
                         </div>

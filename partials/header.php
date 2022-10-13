@@ -11,7 +11,7 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-0">
             <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+                <a href="../services/services.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
                 <div class="dropdown-menu m-0">
                     <a href="../services/web-application-dev.php" class="dropdown-item">Web Application Development</a>
                     <a href="../services/enterprise-application-development-services.php" class="dropdown-item">Enterprise Application Development</a>
@@ -41,7 +41,7 @@
                     <a href="../company/about.php" class="dropdown-item">About us</a>
                     <a href="../company/team.php" class="dropdown-item">Leadership</a>
                     <!-- <a href="comparison.html" class="dropdown-item">Life at Infinio</a> -->
-                    <a href="../company/careers.php" class="dropdown-item">Careers</a>
+                    <!-- <a href="../company/careers.php" class="dropdown-item">Careers</a> -->
                 </div>
             </div>
             <div class="nav-item dropdown">

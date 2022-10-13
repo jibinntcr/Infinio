@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -107,8 +107,7 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    End-to-end personalized web application development employs a methodical approach that keeps...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="web-application-dev.php">Read More</a>
@@ -125,8 +124,7 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    Many off-the-shelf solutions would be unable to fulfil the precise business requirements of a large..
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="enterprise-application-development-services.php">Read More</a>
@@ -143,8 +141,7 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    Partner with Infinio to create unique and cost-effective software solutions for increasing business...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="custom-application-development.php">Read More</a>
@@ -161,8 +158,7 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    The idea of IoT is possibly one of the most revolutionary and innovative advancements in the field...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="internet-of-things.php">Read More</a>
@@ -179,8 +175,7 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    Whatever it takes, we'll make sure your brand is visible to consumers in this digital age...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="digital-marketing.php">Read More</a>
@@ -215,8 +210,7 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    We provide rich and intuitive mobile solutions for iOS, Android, Windows Phone, responsive web...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="mobile-application-development.php">Read More</a>
@@ -233,8 +227,7 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    We deliver comprehensive and Customized learning management solutions using Moodle tools...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="learning-management-system.php">Read More</a>

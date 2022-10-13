@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="../img/favicon.ico" rel="icon">
+    <link href="../img/favi.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -94,7 +94,7 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">Mobile Application Development</h1>
                         </div>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="mb-4 para-justify">We provide rich and intuitive mobile solutions for iOS, Android, Windows Phone, responsive web, and business apps, as well as mobile integration. Our mobile app development teams can help you increase your market reach, capture client attention, and generate company growth and revenue, from industry-specific products to smartphone apps.</p>
                     </div>
                     <div class="col-lg-5">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/mobile-application -dev-main.png">
