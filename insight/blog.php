@@ -1,3 +1,6 @@
+<?php
+include('../admin/includes/config.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -97,72 +100,31 @@
                     </p> -->
                 </div>
                 <div class="row gy-5 gx-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-e-governance.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                <h6 class="fw-bold">Web Application Development</h6>
+                    <?php
+                    $sql = "SELECT * from blog where status='1'";
+                    $query = $dbh->prepare($sql);
+                    $query->execute();
+                    $results = $query->fetchAll(PDO::FETCH_OBJ);
+                    $cnt = 1;
+                    if ($query->rowCount() > 0) {
+                        foreach ($results as $result) {
+                    ?>
+                            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="position-relative shadow rounded border-top border-5 border-primary">
+                                    <div class=" border-bottom p-4 pt-5">
+                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../admin/uploads/<?php echo $result->thumbnail ?>" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                        <div class="content">
+                                            <h6 class="fw-bold"><?php echo $result->title ?>...</h6>
+                                        </div>
+                                    </div>
+                                    <div class="text-center border-bottom p-4">
+                                        <a class="btn btn-primary px-4 py-2" href="blog-content.php?id=<?php echo   $result->id ?>" target="_blank">Read More</a>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="text-center border-bottom p-4">
-                                <a class="btn btn-primary px-4 py-2" href="blog-content.php">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-e-governance.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                <h6 class="fw-bold">Web Application Development</h6>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <a class="btn btn-primary px-4 py-2" href="blog-content.php">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-e-governance.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                <h6 class="fw-bold">Web Application Development</h6>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <a class="btn btn-primary px-4 py-2" href="blog-content.php">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-e-governance.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                <h6 class="fw-bold">Web Application Development</h6>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <a class="btn btn-primary px-4 py-2" href="blog-content.php">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-e-governance.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                <h6 class="fw-bold">Web Application Development</h6>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <a class="btn btn-primary px-4 py-2" href="blog-content.php">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="text-center border-bottom p-4 pt-5">
-                                <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../img/industry-e-governance.jpg" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                <h6 class="fw-bold">Web Application Development</h6>
-                            </div>
-                            <div class="text-center border-bottom p-4">
-                                <a class="btn btn-primary px-4 py-2" href="blog-content.php">Read More</a>
-                            </div>
-                        </div>
-                    </div>
+                    <?php }
+                    }
+                    ?>
                 </div>
                 <div class="pt-sm-4 position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title" data-wow-delay="0.1s" style="max-width: 600px">
                     <!-- <a href="" class="text-black btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Explore More</a> -->
@@ -180,7 +142,7 @@
     </div>
 
     <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../lib/wow/wow.min.js"></script>

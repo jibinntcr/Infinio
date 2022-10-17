@@ -23,7 +23,7 @@
                     <label>Navigation</label>
                 </li>
                 <li class="nav-item">
-                    <a href="index.html" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Blog</span></a>
+                    <a href="../blog/blog.php" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Blog</span></a>
                 </li>
             </ul>
 

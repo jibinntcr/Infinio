@@ -13,7 +13,7 @@ if (strlen($_SESSION['alogin']) == 0) {
     <html lang="en">
 
     <head>
-        <title>Flat Able - Premium Admin Template by Phoenixcoded</title>
+        <title>Admin Blog | Infinio Technology Solutions</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -82,25 +82,76 @@ if (strlen($_SESSION['alogin']) == 0) {
                                     <thead>
                                         <tr>
                                             <th>#</th>
-                                            <th>Tittle</th>
+                                            <th>Title</th>
                                             <th>Creted Date</th>
-                                            <th></th>
-                                            <th></th>
+                                            <th>Edit</th>
+                                            <th>Status</th>
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>Mark</td>
-                                            <td>Otto</td>
-                                            <td>
-                                                <div class="mt-2">
-                                                    <button type="button" onclick="location.href = 'blogactivate.php?idD=<?php echo $id ?>';" class="btn  btn-icon btn-danger"><i class="feather icon-slash"></i></button>
-                                                </div>
-                                            </td>
+                                        <?php
+                                        $cnt = 1;
+                                        $sql = "SELECT * from blog ";
+                                        $query = $dbh->prepare($sql);
+                                        $query->execute();
+                                        $results = $query->fetchAll(PDO::FETCH_OBJ);
 
-                                            <td></td>
-                                        </tr>
+                                        if ($query->rowCount() > 0) {
+                                            foreach ($results as $result) {
+                                        ?>
+                                                <tr>
+                                                    <?php
+                                                    $title =  substr($result->title, 0, 65);
+                                                    ?>
+                                                    <td>
+                                                        <div class="mt-2">
+                                                            <?php echo $cnt ?>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="mt-2">
+                                                            <?php echo  $title ?>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="mt-2">
+                                                            <?php echo  $result->date ?>
+                                                        </div>
+                                                    </td>
+
+                                                    <td>
+                                                        <div class="mt-2">
+                                                            <button onclick="location.href = 'blog-edit.php?id=<?php echo   $result->id ?>';" type="button" class="btn  btn-icon btn-secondary">
+                                                                <i class="feather icon-pencil"></i>
+                                                            </button>
+                                                        </div>
+                                                    </td>
+                                                    <?php
+                                                    $status = $result->status;
+                                                    if ($status == 1) {
+                                                        $idE = $result->id; ?>
+                                                        <td>
+                                                            <div class="mt-2">
+                                                                <button type="button" onclick="location.href ='blog-activate.php?idE=<?php echo $idE ?>';" class="btn  btn-icon btn-danger"><i class="feather icon-slash"></i></button>
+                                                            </div>
+                                                        </td>
+                                                    <?php
+                                                    } else {
+                                                        $idD = $result->id; ?>
+                                                        <td>
+                                                            <div class="mt-2">
+                                                                <button type="button" onclick="location.href ='blog-activate.php?idD=<?php echo $idD ?>';" class="btn  btn-icon btn-success"><i class="feather icon-check-circle"></i></button>
+                                                            </div>
+                                                        </td>
+                                                    <?php
+                                                    }
+
+                                                    ?>
+                                                </tr>
+                                        <?php $cnt = $cnt + 1;
+                                            }
+                                        }
+                                        ?>
                                     </tbody>
                                 </table>
                             </div>

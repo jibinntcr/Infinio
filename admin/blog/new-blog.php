@@ -4,7 +4,34 @@ error_reporting(0);
 include('../includes/config.php');
 if (strlen($_SESSION['alogin']) == 0) {
     header('location:login.php');
-} else { ?>
+} else {
+
+    if (isset($_POST['blogBTN'])) {
+        $title = $_POST['title'];
+        $content = $_POST['content'];
+        $authername = $_POST['autherName'];
+        $folder = '../uploads/';
+        $file = $folder . basename($_FILES["thumb"]["name"]);
+        move_uploaded_file($_FILES['thumb']['tmp_name'], $file);
+        $thumb = basename($_FILES["thumb"]["name"]);
+
+        $file2 = $folder . basename($_FILES["blogimg"]["name"]);
+        move_uploaded_file($_FILES['blogimg']['tmp_name'], $file2);
+        $blogimage = basename($_FILES["blogimg"]["name"]);
+
+        $status = '1';
+        $sql = "INSERT INTO blog(title,content,autherName,thumbnail,image,status) VALUES ('" . $title . "','" . $content . "','" . $authername . "','" . $thumb . "','" . $blogimage . "','" . $status . "')";
+        $query = $dbh->prepare($sql);
+        $result = $query->execute();
+        if ($query->rowCount() > 0) {
+            echo '<script>alert("Success")</script>';
+            echo '<script>window.location = "blog.php";</script>';
+        } else {
+            echo '<script>alert("something went wrong please try again")</script>';
+            echo '<script>window.location = "blog.php";</script>';
+        }
+    }
+?>
 
 
 
@@ -13,7 +40,7 @@ if (strlen($_SESSION['alogin']) == 0) {
     <html lang="en">
 
     <head>
-        <title>Flat Able - Premium Admin Template by Phoenixcoded</title>
+        <title>Admin New Blog | Infinio Technology Solutions</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -25,6 +52,7 @@ if (strlen($_SESSION['alogin']) == 0) {
 
         <!-- vendor css -->
         <link rel="stylesheet" href="../assets/css/style.css">
+        <script src="../ckeditor_4.19.1_standard/ckeditor/ckeditor.js"> </script>
 
 
 
@@ -67,28 +95,37 @@ if (strlen($_SESSION['alogin']) == 0) {
                             <h5>Create New Blog</h5>
                         </div>
                         <div class="card-body">
-                            <form>
+                            <form class="forms-sample" enctype="multipart/form-data" method="POST">
                                 <div class="form-group">
                                     <label for="inputAddress">Title</label>
-                                    <input type="text" class="form-control" id="inputAddress" placeholder="blog title" required>
+                                    <input type="text" class="form-control" id="title" name="title" placeholder="blog title" required>
                                 </div>
                                 <div class="form-row">
                                     <div class="form-group col-md-6">
-                                        <label for="inputEmail4">Thumbnail</label>
-                                        <input type="file" class="form-control" id="file" name="file" accept="image/gif, image/png, image/jpg, image/jpeg" required>
+                                        <label for="inputEmail4">Thumbnail (600 x 600 px)</label>
+                                        <input type="file" class="form-control" id="thumb" name="thumb" accept="image/gif, image/png, image/jpg, image/jpeg" required>
                                     </div>
                                     <div class="form-group col-md-6">
-                                        <label for="inputPassword4">Blog Image</label>
-                                        <input type="file" class="form-control" id="file" name="file" accept="image/gif, image/png, image/jpg, image/jpeg" required>
+                                        <label for="inputPassword4">Blog Image (1440 x 700 px)</label>
+                                        <input type="file" class="form-control" id="blogimg" name="blogimg" accept="image/gif, image/png, image/jpg, image/jpeg" required>
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col-md-6">
+                                        <label for="inputEmail4">Auther Name</label>
+                                        <input type="text" class="form-control" id="autherName" name="autherName" placeholder="Auther Name" required>
                                     </div>
                                 </div>
 
                                 <div class="form-group">
                                     <label for="inputAddress2">Content</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
+                                    <textarea class="form-control" id="content" name="content" rows="3" required></textarea>
                                 </div>
-                                <button type="submit" class="btn  btn-primary">Submit</button>
+                                <button name="blogBTN" id="blogBTN" type="submit" class="btn  btn-primary">Submit</button>
                             </form>
+                            <script>
+                                CKEDITOR.replace('content');
+                            </script>
                         </div>
                     </div>
                 </div>
