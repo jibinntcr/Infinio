@@ -14,7 +14,9 @@
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -34,7 +36,8 @@
 <body>
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
-        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div id="spinner"
+            class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
                 <span class="sr-only">Loading...</span>
             </div>
@@ -51,7 +54,8 @@
                         <div class="col-12 text-center text-lg-start">
                             <!-- <h1 class="display-4 text-white animated slideInLeft">Web Application Development</h1> -->
                             <nav aria-label="breadcrumb">
-                                <ol class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
+                                <ol
+                                    class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
                                     <li class="breadcrumb-item">
                                         <a class="text-white" href="../index.php">Home</a>
                                     </li>
@@ -70,11 +74,13 @@
             <div class="modal-dialog modal-fullscreen">
                 <div class="modal-content" style="background: rgba(29, 40, 51, 0.8);">
                     <div class="modal-header border-0">
-                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal"
+                            aria-label="Close"></button>
                     </div>
                     <div class="modal-body d-flex align-items-center justify-content-center">
                         <div class="input-group" style="max-width: 600px;">
-                            <input type="text" class="form-control bg-transparent border-light p-3" placeholder="Type search keyword">
+                            <input type="text" class="form-control bg-transparent border-light p-3"
+                                placeholder="Type search keyword">
                             <button class="btn btn-light px-4">
                                 <i class="bi bi-search"></i>
                             </button>
@@ -88,21 +94,60 @@
         <!-- Pricing Start -->
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
-                <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp"
+                    data-wow-delay="0.1s" style="max-width: 600px">
                     <h1 class="mb-3">TECHNOLOGIES</h1>
                 </div>
 
-                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s"
+                    style="max-width: 600px">
                     <h3 class="bg-dark text-white rounded mb-3">WEB</h3>
                 </div>
                 <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class=" row gy-5 gx-4">
                         <h5 class="text-center py-3 wow fadeInUp" data-wow-delay="0.1s">BACKEND</h5>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/php.jpg">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/node.jpg">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/python.jpg">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/django.jpg">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
@@ -111,47 +156,12 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="row gy-5 gx-4">
                         <h5 class="text-center py-3">FRONTEND</h5>
@@ -159,52 +169,44 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/angular.jpg">
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-20 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/react.jpg">
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-20 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/boot.jpg">
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-20 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/jquery.jpg">
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-20 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/html.jpg">
                                     </p>
                                 </div>
                             </div>
@@ -212,69 +214,46 @@
                     </div>
                 </div>
 
-                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s"
+                    style="max-width: 600px">
                     <h3 class="bg-dark text-white rounded mb-3">MOBILE</h3>
                 </div>
                 <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class=" row gy-5 gx-4">
                         <!-- <h5 class="text-center py-3 wow fadeInUp" data-wow-delay="0.1s">BACKEND</h5> -->
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-4 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/flutter.jpg">
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-4 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/android.jpg">
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                        <div class="col-lg-4 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
-                            <div class="position-relative rounded">
-                                <div class="text-center p-4">
-                                    <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/ios.jpg">
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s"
+                    style="max-width: 600px">
                     <h3 class="bg-dark text-white rounded mb-3">DATABASE</h3>
                 </div>
                 <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -284,7 +263,7 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/sql.jpg">
                                     </p>
                                 </div>
                             </div>
@@ -293,7 +272,7 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/mySql.jpg">
                                     </p>
                                 </div>
                             </div>
@@ -302,7 +281,7 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/pSql.jpg">
                                     </p>
                                 </div>
                             </div>
@@ -311,7 +290,7 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/orac.jpg">
                                     </p>
                                 </div>
                             </div>
@@ -320,7 +299,7 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/mongo.jpg">
                                     </p>
                                 </div>
                             </div>
@@ -329,24 +308,26 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/firebase_logo_shot.png">
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <!-- <div class=" position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s"
+                    style="max-width: 600px">
                     <h3 class="bg-dark text-white rounded mb-3">DATA SCIENCE</h3>
                 </div>
                 <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class=" row gy-5 gx-4">
-                        <!-- <h5 class="text-center py-3 wow fadeInUp" data-wow-delay="0.1s">BACKEND</h5> -->
                         <div class="col-lg-2 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
@@ -355,7 +336,8 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
@@ -364,7 +346,8 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
@@ -373,7 +356,8 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
@@ -382,7 +366,8 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
@@ -391,15 +376,16 @@
                             <div class="position-relative rounded">
                                 <div class="text-center p-4">
                                     <p class="mb-5">
-                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/custom-sw.png">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                                            src="../img/custom-sw.png">
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title" data-wow-delay="0.1s" style="max-width: 600px">
-                    <!-- <a href="" class="text-black btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Explore More</a> -->
+                </div> -->
+                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title"
+                    data-wow-delay="0.1s" style="max-width: 600px">
                 </div>
             </div>
         </div>
@@ -414,7 +400,9 @@
     </div>
 
     <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous">
+    </script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../lib/wow/wow.min.js"></script>

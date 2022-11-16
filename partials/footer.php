@@ -13,13 +13,19 @@
                 <div class="row gy-5 g-4">
                     <div class="col-md-6">
                         <h5 class="fw-bold text-white mb-4">Services</h5>
-                        <a class="btn btn-link" href="../services/web-application-dev.php">Web Application Development</a>
-                        <a class="btn btn-link" href="../services/enterprise-application-development-services.php">Enterprices Application Development</a>
-                        <a class="btn btn-link" href="../services/custom-application-development.php">Custom Software Application Development</a>
+                        <a class="btn btn-link" href="../services/web-application-dev.php">Web Application
+                            Development</a>
+                        <a class="btn btn-link"
+                            href="../services/enterprise-application-development-services.php">Enterprices Application
+                            Development</a>
+                        <a class="btn btn-link" href="../services/custom-application-development.php">Custom Software
+                            Application Development</a>
                         <a class="btn btn-link" href="../services/internet-of-things.php">Internet Of Things</a>
                         <a class="btn btn-link" href="../services/digital-marketing.php">Digital Marketing</a>
-                        <a class="btn btn-link" href="../services/mobile-application-development.php">Mobile Application Development</a>
-                        <a class="btn btn-link" href="../services/learning-management-system.php">Learning Management System</a>
+                        <a class="btn btn-link" href="../services/mobile-application-development.php">Mobile Application
+                            Development</a>
+                        <a class="btn btn-link" href="../services/learning-management-system.php">Learning Management
+                            System</a>
                         <a class="btn btn-link" href="../services/technology-training.php">Technology Training</a>
                     </div>
                     <div class="col-md-6">

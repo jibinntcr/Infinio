@@ -14,7 +14,9 @@
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -34,7 +36,8 @@
 <body>
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
-        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div id="spinner"
+            class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
                 <span class="sr-only">Loading...</span>
             </div>
@@ -51,7 +54,8 @@
                         <div class="col-12 text-center text-lg-start">
                             <!-- <h1 class="display-4 text-white animated slideInLeft">Web Application Development</h1> -->
                             <nav aria-label="breadcrumb">
-                                <ol class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
+                                <ol
+                                    class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
                                     <li class="breadcrumb-item">
                                         <a class="text-white" href="../index.php">Home</a>
                                     </li>
@@ -70,11 +74,13 @@
             <div class="modal-dialog modal-fullscreen">
                 <div class="modal-content" style="background: rgba(29, 40, 51, 0.8);">
                     <div class="modal-header border-0">
-                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal"
+                            aria-label="Close"></button>
                     </div>
                     <div class="modal-body d-flex align-items-center justify-content-center">
                         <div class="input-group" style="max-width: 600px;">
-                            <input type="text" class="form-control bg-transparent border-light p-3" placeholder="Type search keyword">
+                            <input type="text" class="form-control bg-transparent border-light p-3"
+                                placeholder="Type search keyword">
                             <button class="btn btn-light px-4">
                                 <i class="bi bi-search"></i>
                             </button>
@@ -88,7 +94,8 @@
         <!-- Pricing Start -->
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
-                <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp"
+                    data-wow-delay="0.1s" style="max-width: 600px">
                     <h1 class="mb-3">SERVICE OFFERINGS</h1>
                     <!-- <p class="mb-1">
                         Vero justo sed sed vero clita amet. Et justo vero sea diam elitr
@@ -99,7 +106,8 @@
                 <div class="row gy-5 gx-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-desktop text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -107,7 +115,8 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    End-to-end personalized web application development employs a methodical approach that keeps...
+                                    End-to-end personalized web application development employs a methodical approach
+                                    that keeps...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="web-application-dev.php">Read More</a>
@@ -116,7 +125,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-cogs text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -124,16 +134,19 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Many off-the-shelf solutions would be unable to fulfil the precise business requirements of a large..
+                                    Many off-the-shelf solutions would be unable to fulfil the precise business
+                                    requirements of a large..
                                 </p>
 
-                                <a class="btn btn-primary px-4 py-2" href="enterprise-application-development-services.php">Read More</a>
+                                <a class="btn btn-primary px-4 py-2"
+                                    href="enterprise-application-development-services.php">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-code text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -141,16 +154,19 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Partner with Infinio to create unique and cost-effective software solutions for increasing business...
+                                    Partner with Infinio to create unique and cost-effective software solutions for
+                                    increasing business...
                                 </p>
 
-                                <a class="btn btn-primary px-4 py-2" href="custom-application-development.php">Read More</a>
+                                <a class="btn btn-primary px-4 py-2" href="custom-application-development.php">Read
+                                    More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-code text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -158,7 +174,8 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    The idea of IoT is possibly one of the most revolutionary and innovative advancements in the field...
+                                    The idea of IoT is possibly one of the most revolutionary and innovative
+                                    advancements in the field...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="internet-of-things.php">Read More</a>
@@ -167,7 +184,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-code text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -175,7 +193,8 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Whatever it takes, we'll make sure your brand is visible to consumers in this digital age...
+                                    Whatever it takes, we'll make sure your brand is visible to consumers in this
+                                    digital age...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="digital-marketing.php">Read More</a>
@@ -184,7 +203,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-code text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -202,7 +222,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 wow mx-autol fadeInUp mb-5" data-wow-delay="0.6s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-code text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -210,16 +231,19 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    We provide rich and intuitive mobile solutions for iOS, Android, Windows Phone, responsive web...
+                                    We provide rich and intuitive mobile solutions for iOS, Android, Windows Phone,
+                                    responsive web...
                                 </p>
 
-                                <a class="btn btn-primary px-4 py-2" href="mobile-application-development.php">Read More</a>
+                                <a class="btn btn-primary px-4 py-2" href="mobile-application-development.php">Read
+                                    More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mx-autor mb-5" data-wow-delay="0.6s">
                         <div class="position-relative shadow rounded border-top border-5 border-primary">
-                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle"
+                                style="width: 45px; height: 45px; margin-top: -3px">
                                 <i class="fa fa-code text-white"></i>
                             </div>
                             <div class="text-center border-bottom p-4 pt-5">
@@ -227,7 +251,8 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    We deliver comprehensive and Customized learning management solutions using Moodle tools...
+                                    We deliver comprehensive and Customized learning management solutions using Moodle
+                                    tools...
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="learning-management-system.php">Read More</a>
@@ -235,7 +260,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title"
+                    data-wow-delay="0.1s" style="max-width: 600px">
                     <!-- <a href="" class="text-black btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Explore More</a> -->
                 </div>
             </div>
@@ -251,7 +277,9 @@
     </div>
 
     <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="//code.tidio.co/7eu3fr4z7oetu8afoorijlhybeaooh18.js" async></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../lib/wow/wow.min.js"></script>

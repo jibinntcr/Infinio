@@ -14,7 +14,9 @@
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -34,7 +36,8 @@
 <body>
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
-        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div id="spinner"
+            class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
                 <span class="sr-only">Loading...</span>
             </div>
@@ -51,12 +54,15 @@
                         <div class="col-12 text-center text-lg-start">
                             <!-- <h1 class="display-4 text-white animated slideInLeft">Web Application Development</h1> -->
                             <nav aria-label="breadcrumb">
-                                <ol class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
+                                <ol
+                                    class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
                                     <li class="breadcrumb-item">
                                         <a class="text-white" href="../index.php">Home</a>
                                     </li>
-                                    <li class="breadcrumb-item"><a class="text-white" href="services.php">Services</a></li>
-                                    <li class="breadcrumb-item text-white active" aria-current="page">Mobile Application Development</li>
+                                    <li class="breadcrumb-item"><a class="text-white" href="services.php">Services</a>
+                                    </li>
+                                    <li class="breadcrumb-item text-white active" aria-current="page">Mobile Application
+                                        Development</li>
                                 </ol>
                             </nav>
                         </div>
@@ -71,11 +77,13 @@
             <div class="modal-dialog modal-fullscreen">
                 <div class="modal-content" style="background: rgba(29, 40, 51, 0.8);">
                     <div class="modal-header border-0">
-                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal"
+                            aria-label="Close"></button>
                     </div>
                     <div class="modal-body d-flex align-items-center justify-content-center">
                         <div class="input-group" style="max-width: 600px;">
-                            <input type="text" class="form-control bg-transparent border-light p-3" placeholder="Type search keyword">
+                            <input type="text" class="form-control bg-transparent border-light p-3"
+                                placeholder="Type search keyword">
                             <button class="btn btn-light px-4">
                                 <i class="bi bi-search"></i>
                             </button>
@@ -94,10 +102,25 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">Mobile Application Development</h1>
                         </div>
-                        <p class="mb-4 para-justify">We provide rich and intuitive mobile solutions for iOS, Android, Windows Phone, responsive web, and business apps, as well as mobile integration. Our mobile app development teams can help you increase your market reach, capture client attention, and generate company growth and revenue, from industry-specific products to smartphone apps.</p>
+                        <p class="mb-4 para-justify">We provide rich and intuitive mobile solutions for iOS, Android,
+                            Windows Phone, responsive web, and business apps, as well as mobile integration. Our mobile
+                            app development teams can help you increase your market reach, capture client attention, and
+                            generate company growth and revenue, from industry-specific products to smartphone apps.</p>
+                        <div class="position-relative mb-4 pt-5">
+                            <h4 class="mb-2">Mobile Application Development That We Provide</h4>
+                            <ul>
+                                <li>Android App Development</li>
+                                <li>iOS App Development</li>
+                                <li>Windows App Development</li>
+                                <li>Cross Platform App Development</li>
+                                <li>Hybrid App Development</li>
+                                <li>Native App Development</li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="col-lg-5">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/mobile-application -dev-main.png">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s"
+                            src="../img/mobile-application -dev-main.png">
                     </div>
                 </div>
             </div>
@@ -117,7 +140,8 @@
     </div>
 
     <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../lib/wow/wow.min.js"></script>
