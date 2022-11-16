@@ -84,7 +84,7 @@
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                     &copy;
-                    <a class="border-bottom" href="#">Infinio Technologies</a>, All
+                    <a class="border-bottom" href="http://infinio.co.in/">Infinio Technologies</a>, All
                     Right Reserved.
                 </div>
             </div>

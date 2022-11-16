@@ -141,6 +141,102 @@
                 </div>
             </div>
         </div>
+
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp"
+                    data-wow-delay="0.1s" style="max-width: 600px">
+                    <h1 class="mb-3">OUR TRUSTED PARTNERS</h1>
+                </div>
+                <!-- <div class="position-relative text-center mx-auto py-3 pb-4 wow fadeInUp" data-wow-delay="0.1s"
+                    style="max-width: 600px">
+                    <h3 class="bg-dark text-white rounded mb-3">MOBILE</h3>
+                </div> -->
+                <!-- <div class="rcorners2 mb-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class=" row gy-5 gx-4">
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/dca.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/newply.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/zamra.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2 wow fadeInUp mb-0" data-wow-delay="0.6s">
+                            <div class="position-relative rounded">
+                                <div class="text-center p-4">
+                                    <p class="mb-5">
+                                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../img/zeka.png">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+
+                <section class="brand-area">
+                    <div class="container">
+                        <div class="row logo-wrap">
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/cusatTBI.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/dca.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/leads.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/mudracolo.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href=" #">
+                                <img class="d-block mx-auto" src="../img/metatbi.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/finder.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/zamra.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/polyhack.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/newply.png" alt="">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/zeka.png" alt="">
+                            </a>
+
+                        </div>
+                    </div>
+                </section>
+
+
+                <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title"
+                    data-wow-delay="0.1s" style="max-width: 600px">
+                </div>
+            </div>
+        </div>
         <!-- About End -->
 
 
