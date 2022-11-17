@@ -104,10 +104,11 @@
                         </div>
                         <p class="para-justify" class="mb-4">Infinio Technology Solutions is in a unique position to
                             transfer the most complicated real estate concepts from the whiteboard into the market
-                            because of its extensive competence in Digital Transformation-driven real estate software
+                            because of its extensive competence in digital transformation-driven real estate software
                             development. We offer design, coding, testing, system integration, and product
                             sustainability as part of our services. We assist in bridging the gap between real estate
-                            agents and potential clients.</p>
+                            agents and potential clients.
+                        </p>
                         <div class="position-relative mb-4 pt-5">
                             <h4 class="mb-2">Real Estate Software Solutions That We Provide</h4>
                             <ul>

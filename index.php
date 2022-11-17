@@ -120,7 +120,7 @@
                     <div class="row g-5">
                         <div class="col-lg-6 pt-5 text-center text-lg-start">
                             <h1 class="display-4 text-white mb-4 animated slideInLeft">
-                                Let’s Make You Future Ready
+                                Simply the best Technology
                             </h1>
                             <p class="text-white animated slideInLeft">
                                 Let’s explore game-changing advancements together in our
@@ -218,31 +218,34 @@
                         <div class="section-title position-relative mb-4 pb-4">
                             <h1 class="mb-2">YOUR DIGITAL UPDATION PARTNER</h1>
                         </div>
-                        <p class="mb-4">
-                            Tempor erat elitr rebum at clita. Diam dolor diam ipsum et
-                            tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum
-                            et lorem et sit, sed stet no labore lorem sit clita duo justo
-                            magna dolore erat amet
+                        <p class="mb-4 para-justify">
+                            Infinio Technology Solution completed hundreds of successful projects and formed lasting
+                            bonds with many of our clients who opted to work with us on continuing processes.Our team
+                            takes pride in assisting businesses with advanced innovations and advertising since it is
+                            critical for ventures to contend and succeed in their respective fields.Together, we will
+                            tackle client issues, scale up, and expand rapidly through our worldwide reach by using
+                            exclusive digital marketing.
                         </p>
                         <div class="row g-3">
                             <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                                 <div class="bg-light rounded text-center p-4">
                                     <i class="fa fa-users-cog fa-2x text-primary mb-2"></i>
-                                    <h2 class="mb-1" data-toggle="counter-up">1234</h2>
-                                    <p class="mb-0">Experts</p>
+                                    <h2 class="mb-1" data-toggle="counter-up">2015</h2>
+                                    <p class="mb-0">Since</p>
                                 </div>
                             </div>
                             <div class="col-sm-4 wow fadeIn" data-wow-delay="0.3s">
                                 <div class="bg-light rounded text-center p-4">
                                     <i class="fa fa-users fa-2x text-primary mb-2"></i>
-                                    <h2 class="mb-1" data-toggle="counter-up">1234</h2>
+                                    <h2 class="mb-1" data-toggle="counter-up">150</h2>
+
                                     <p class="mb-0">Clients</p>
                                 </div>
                             </div>
                             <div class="col-sm-4 wow fadeIn" data-wow-delay="0.5s">
                                 <div class="bg-light rounded text-center p-4">
                                     <i class="fa fa-check fa-2x text-primary mb-2"></i>
-                                    <h2 class="mb-1" data-toggle="counter-up">1234</h2>
+                                    <h2 class="mb-1" data-toggle="counter-up">200</h2>
                                     <p class="mb-0">Projects</p>
                                 </div>
                             </div>
@@ -353,20 +356,25 @@
           </p> -->
                 </div>
                 <div class="row gy-5 gx-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp mb-4" data-wow-delay="0.2s">
                         <i class="fa fa-graduation-cap fa-3x text-primary mb-3"></i>
                         <h5 class="fw-bold">EDUCATION</h5>
                         <p>
                             Students from various parts of the world may obtain certificates by taking courses thanks to
                             Infinio...
                         </p>
+                        <a class="btn btn-primary py-2 px-4 mt-2 me-2" href="industries/education.php">Read
+                            More</a>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp mb-4" data-wow-delay="0.4s">
                         <i class="fab fa-internet-explorer fa-3x text-primary mb-3"></i>
                         <h5 class="fw-bold">E-GOVERNANCE</h5>
                         <p>
                             Infinio Technology Solutions offers a full spectrum of eGovernance solutions not only by
                             solving the... </p>
+                        <a class="btn btn-primary py-2 px-4 mt-2 me-2" href="industries/e-governance.php">Read
+                            More</a>
+
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <i class="fas fa-shopping-cart fa-3x text-primary mb-3"></i>
@@ -375,6 +383,9 @@
                             We offer cutting-edge retail and e-commerce solutions that encourage corporate growth and
                             empower..
                         </p>
+                        <a class="btn btn-primary py-2 px-4 mt-2 me-2" href="industries/retail-and-ecommerce">Read
+                            More</a>
+
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <i class="fas fa-city fa-3x text-primary mb-3"></i>
@@ -383,6 +394,8 @@
                             Infinio Technology Solutions is in a unique position to transfer the most complicated real
                             estate ..
                         </p>
+                        <a class="btn btn-primary py-2 px-4 mt-2 me-2" href="industries/real-estate.php">Read
+                            More</a>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <i class="fas fa-laptop-medical fa-3x text-primary mb-3"></i>
@@ -391,6 +404,8 @@
                             By connecting devices, facilitating communication between them, and storing and retrieving
                             crucial...
                         </p>
+                        <a class="btn btn-primary py-2 px-4 mt-2 me-2" href="industries/health-care.php">Read
+                            More</a>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp mb-5" data-wow-delay="0.6s">
                         <i class="far fa-building fa-3x text-primary mb-3"></i>
@@ -399,6 +414,8 @@
                             Our expertise in the field of building automation combines ease and technology to enhance
                             the value...
                         </p>
+                        <a class="btn btn-primary py-2 px-4 mt-2 me-2" href="industries/building-automation.php">Read
+                            More</a>
                     </div>
                 </div>
                 <div class="position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s"
@@ -604,16 +621,15 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3">
-                            Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor
-                            stet amet eirmod eos labore diam
+                        <p class="mt-3 para-justify content-testimonial mb-4">
+                            We are very satisfied clients and we would be happy to recommend Infinio!
                         </p>
-                        <div class="d-flex align-items-center">
+                        <div class=" d-flex align-items-center">
                             <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg"
                                 style="width: 50px; height: 50px" />
                             <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
-                                <small>Profession</small>
+                                <h6 class="fw-bold mb-1">Muhsin K H</h6>
+                                <small>Newply</small>
                             </div>
                         </div>
                     </div>
@@ -623,16 +639,15 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3">
-                            Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor
-                            stet amet eirmod eos labore diam
+                        <p class="mt-3 para-justify content-testimonial mb-4">
+                            As the years pass, our bond is getting stronger and stronger.
                         </p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg"
+                        <div class=" d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.png"
                                 style="width: 50px; height: 50px" />
                             <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
-                                <small>Profession</small>
+                                <h6 class="fw-bold mb-1">Zamra International</h6>
+                                <small>Kochi</small>
                             </div>
                         </div>
                     </div>
@@ -642,35 +657,54 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3">
-                            Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor
-                            stet amet eirmod eos labore diam
+                        <p class="mt-3 para-justify content-testimonial mb-4">
+                            One of the best digital marketing teams in today's industry striving to give us the best
+                            results! Thank you.
                         </p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg"
+                        <div class=" d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.png"
                                 style="width: 50px; height: 50px" />
                             <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
-                                <small>Profession</small>
+                                <h6 class="fw-bold mb-1">LEADS' Venture Lab</h6>
+                                <small>Malappuram</small>
                             </div>
                         </div>
                     </div>
                     <div
-                        class="testimonial-item position-relative bg-light border-top border-5 border-primary rounded p-4 mt-4">
+                        class="testimonial-item position-relative bg-light border-top border-5 border-primary rounded p-4 mt-4 mb-4">
                         <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-primary rounded-circle"
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3">
-                            Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor
-                            stet amet eirmod eos labore diam
+                        <p class="mt-3 content-testimonial para-justify mb-4">
+                            We are happy with infinio Technology Solutions because they are reliable and serious. We've
+                            always been helped by programmers. I recommend
                         </p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-4.jpg"
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-4.png"
                                 style="width: 50px; height: 50px" />
                             <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
-                                <small>Profession</small>
+                                <h6 class="fw-bold mb-1">Finder Sports</h6>
+                                <small>Dubai</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div
+                        class="testimonial-item position-relative bg-light border-top border-5 border-primary rounded p-4 mt-4 mb-4">
+                        <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-primary rounded-circle"
+                            style="width: 45px; height: 45px; margin-top: -3px">
+                            <i class="fa fa-quote-left text-white"></i>
+                        </div>
+                        <p class="mt-3 content-testimonial para-justify mb-4">
+                            Team Infinio strives to satisfy client demands. Their company is trustworthy since it
+                            consistently delivers exceptional outcomes.
+                        </p>
+                        <div class=" d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-5.png"
+                                style="width: 50px; height: 50px" />
+                            <div class="ps-3">
+                                <h6 class="fw-bold mb-1">Mudra Publications</h6>
+                                <small>Thrissur</small>
                             </div>
                         </div>
                     </div>
@@ -738,16 +772,14 @@
 
                         </p>
                         <div class="d-flex pt-2">
-                            <a class="btn btn-outline-light btn-social" href="">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a class="btn btn-outline-light btn-social" href="">
+                            <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/infinioglobal">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
-                            <a class="btn btn-outline-light btn-social" href="">
-                                <i class="fab fa-youtube"></i>
+                            <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/infiniotech/">
+                                <i class="fab fa-instagram"></i>
                             </a>
-                            <a class="btn btn-outline-light btn-social" href="">
+                            <a class="btn btn-outline-light btn-social"
+                                href="https://www.linkedin.com/company/74947102/admin/">
                                 <i class="fab fa-linkedin-in"></i>
                             </a>
                         </div>

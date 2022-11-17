@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>GreenHost - Web Hosting HTML Template</title>
+    <title>Contact | Infinio Technology Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -59,8 +59,8 @@
                             <nav aria-label="breadcrumb">
                                 <ol
                                     class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
-                                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
+                                    <li class="breadcrumb-item"><a class="text-white" href="../index.php">Home</a></li>
+                                    <!-- <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li> -->
                                     <li class="breadcrumb-item text-white active" aria-current="page">Contact</li>
                                 </ol>
                             </nav>
@@ -113,16 +113,16 @@
                         <div class="pt-4 section-title position-relative mx-auto mb-4 pb-4">
                             <h3 class="fw-bold mb-0">DUBAI</h3>
                         </div>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA
+                        <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Jebel Ali, Dubai.
                         </p>
-                        <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@example.com</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+971-0556259175</p>
+                        <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@infinio.co.in</p>
 
                     </div>
                     <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s"
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                         <iframe class="position-relative rounded w-100 h-100"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.645178526911!2d76.32375311476514!3d10.04610989281956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c30d4ca4cff%3A0x6af14597a4b11a2a!2sDepartment%20of%20Computer%20Applications!5e0!3m2!1sen!2sin!4v1651077849312!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.729209875355!2d76.21824!3d10.5219814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7ef2701a50ef3%3A0xbe22b5bb9c036060!2sInfinio%20Technical%20Solutions!5e0!3m2!1sen!2sin!4v1668663346162!5m2!1sen!2sin"
                             frameborder="0" style="min-height: 300px; border:0;" allowfullscreen="" aria-hidden="false"
                             tabindex="0"></iframe>
                     </div>

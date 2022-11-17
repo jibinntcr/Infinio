@@ -127,7 +127,12 @@
                             <h3 class="fw-bold mb-0">Our Mission</h3>
                         </div>
                         <div class="wow fadeIn" data-wow-delay="0.5s">
-                            <p>Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor ipsum</p>
+                            <p class="para-justify">Infinio’s mission spotlights the company’s commitment to provide the
+                                best quality
+                                projects as per the requirement. Furthermore, we handle all major and minor aspects,
+                                including cloud services, to ensure that your data is never compromised or subjected to
+                                cyber-attacks.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-6 ps-lg-5 align-items-center justify">
@@ -135,7 +140,11 @@
                             <h3 class="fw-bold mb-0">Our Vission</h3>
                         </div>
                         <div class="wow fadeIn" data-wow-delay="0.5s">
-                            <p>Ipsum dolor diam stet stet kasd diam sea stet sed rebum dolor ipsum</p>
+                            <p class="para-justify">“Rouse the world with our inventive technology, innovations, and
+                                projects. Our team
+                                endeavours to build the best projects while maintaining transparency with the help of
+                                advanced tools and innovations."
+                            </p>
                         </div>
                     </div>
                 </div>

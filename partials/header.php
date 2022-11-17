@@ -11,8 +11,7 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-0">
             <div class="nav-item dropdown">
-                <a href="../services/services.php" class="nav-link dropdown-toggle"
-                    data-bs-toggle="dropdown">Services</a>
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
                 <div class="dropdown-menu m-0">
                     <a href="../services/web-application-dev.php" class="dropdown-item">Web Application Development</a>
                     <a href="../services/enterprise-application-development-services.php"
@@ -29,7 +28,7 @@
                 </div>
             </div>
             <div class="nav-item dropdown">
-                <a href="industries/index.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
                 <div class="dropdown-menu m-0">
                     <a href="../industries/education.php" class="dropdown-item">Education</a>
                     <a href="../industries/e-governance.php" class="dropdown-item">E-Governance</a>

@@ -104,8 +104,8 @@
                         </div>
                         <p class="para-justify" class="mb-4">Students from various parts of the world may obtain
                             certificates by taking courses thanks to Infinio Technology System's innovative
-                            cross-platform E-learning solution. This is This is made possible by the unique text and
-                            video material that instructors and other educational experts produce and post.</p>
+                            cross-platform e-learning solution. This is made possible by the unique text and video
+                            material that instructors and other educational experts produce and post.</p>
                         <div class="position-relative mb-4 pt-5">
                             <h4 class="mb-2">Education Software Solutions That We Provide
                             </h4>

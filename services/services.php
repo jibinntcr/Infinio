@@ -212,8 +212,8 @@
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <p class="mb-5">
-                                    Eirmod erat dolor amet est clita lorem erat justo rebum
-                                    elitr eos
+                                    Professional Training by Industrial leading developers. So the learners can
+                                    experience..
                                 </p>
 
                                 <a class="btn btn-primary px-4 py-2" href="technology-training.php">Read More</a>

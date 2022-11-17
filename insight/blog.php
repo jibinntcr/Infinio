@@ -17,7 +17,9 @@ include('../admin/includes/config.php');
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -37,7 +39,8 @@ include('../admin/includes/config.php');
 <body>
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
-        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div id="spinner"
+            class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
                 <span class="sr-only">Loading...</span>
             </div>
@@ -54,7 +57,8 @@ include('../admin/includes/config.php');
                         <div class="col-12 text-center text-lg-start">
                             <!-- <h1 class="display-4 text-white animated slideInLeft">Web Application Development</h1> -->
                             <nav aria-label="breadcrumb">
-                                <ol class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
+                                <ol
+                                    class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
                                     <li class="breadcrumb-item">
                                         <a class="text-white" href="../index.php">Home</a>
                                     </li>
@@ -73,11 +77,13 @@ include('../admin/includes/config.php');
             <div class="modal-dialog modal-fullscreen">
                 <div class="modal-content" style="background: rgba(29, 40, 51, 0.8);">
                     <div class="modal-header border-0">
-                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal"
+                            aria-label="Close"></button>
                     </div>
                     <div class="modal-body d-flex align-items-center justify-content-center">
                         <div class="input-group" style="max-width: 600px;">
-                            <input type="text" class="form-control bg-transparent border-light p-3" placeholder="Type search keyword">
+                            <input type="text" class="form-control bg-transparent border-light p-3"
+                                placeholder="Type search keyword">
                             <button class="btn btn-light px-4">
                                 <i class="bi bi-search"></i>
                             </button>
@@ -91,7 +97,8 @@ include('../admin/includes/config.php');
         <!-- Pricing Start -->
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
-                <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp"
+                    data-wow-delay="0.1s" style="max-width: 600px">
                     <h1 class="mb-3">BLOG</h1>
                     <!-- <p class="mb-1">
                         Vero justo sed sed vero clita amet. Et justo vero sea diam elitr
@@ -109,24 +116,28 @@ include('../admin/includes/config.php');
                     if ($query->rowCount() > 0) {
                         foreach ($results as $result) {
                     ?>
-                            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                                <div class="position-relative shadow rounded border-top border-5 border-primary">
-                                    <div class=" border-bottom p-4 pt-5">
-                                        <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s" src="../admin/uploads/<?php echo $result->thumbnail ?>" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-                                        <div class="content">
-                                            <h6 class="fw-bold"><?php echo $result->title ?>...</h6>
-                                        </div>
-                                    </div>
-                                    <div class="text-center border-bottom p-4">
-                                        <a class="btn btn-primary px-4 py-2" href="blog-content.php?id=<?php echo   $result->id ?>" target="_blank">Read More</a>
-                                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="position-relative shadow rounded border-top border-5 border-primary">
+                            <div class="border-bottom p-4 pt-5">
+                                <img class="rounded img-fluid wow zoomIn mb-4" data-wow-delay="0.5s"
+                                    src="../admin/uploads/<?php echo $result->thumbnail ?>"
+                                    style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                                <div class="content">
+                                    <h6 class="fw-bold"><?php echo $result->title ?>...</h6>
                                 </div>
                             </div>
+                            <div class="text-center border-bottom p-4">
+                                <a class="btn btn-primary px-4 py-2"
+                                    href="blog-content.php?id=<?php echo   $result->id ?>" target="_blank">Read More</a>
+                            </div>
+                        </div>
+                    </div>
                     <?php }
                     }
                     ?>
                 </div>
-                <div class="pt-sm-4 position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="pt-sm-4 position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp section-title"
+                    data-wow-delay="0.1s" style="max-width: 600px">
                     <!-- <a href="" class="text-black btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Explore More</a> -->
                 </div>
             </div>
@@ -142,7 +153,8 @@ include('../admin/includes/config.php');
     </div>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../lib/wow/wow.min.js"></script>

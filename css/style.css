@@ -696,3 +696,8 @@ h6,
     margin-bottom: 40px;
   }
 }
+.content-testimonial {
+  height: 80px;
+  white-space: normal;
+  word-break: break-all;
+}
