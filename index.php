@@ -621,7 +621,7 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3 para-justify content-testimonial mb-4">
+                        <p class="mt-3 para-justify content-testimonial mb-5">
                             We are very satisfied clients and we would be happy to recommend Infinio!
                         </p>
                         <div class=" d-flex align-items-center">
@@ -639,7 +639,7 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3 para-justify content-testimonial mb-4">
+                        <p class="mt-3 para-justify content-testimonial mb-5">
                             As the years pass, our bond is getting stronger and stronger.
                         </p>
                         <div class=" d-flex align-items-center">
@@ -657,7 +657,7 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3 para-justify content-testimonial mb-4">
+                        <p class="mt-3 para-justify content-testimonial mb-5">
                             One of the best digital marketing teams in today's industry striving to give us the best
                             results! Thank you.
                         </p>
@@ -676,7 +676,7 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3 content-testimonial para-justify mb-4">
+                        <p class="mt-3 content-testimonial para-justify mb-5">
                             We are happy with infinio Technology Solutions because they are reliable and serious. We've
                             always been helped by programmers. I recommend
                         </p>
@@ -695,7 +695,7 @@
                             style="width: 45px; height: 45px; margin-top: -3px">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
-                        <p class="mt-3 content-testimonial para-justify mb-4">
+                        <p class="mt-3 content-testimonial para-justify mb-5">
                             Team Infinio strives to satisfy client demands. Their company is trustworthy since it
                             consistently delivers exceptional outcomes.
                         </p>
