@@ -105,7 +105,7 @@
                         <div class="row g-5">
                             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                                 <div class="section-title position-relative mx-auto mb-4 pb-4">
-                                    <h3 class="fw-bold mb-0">Thrissur</h3>
+                                    <h3 class="fw-bold mb-0">THRISSUR</h3>
                                 </div>
                                 <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>2nd Floor Vimala
                                     Building,</br>Thrissur. Kerala, India.</p>
@@ -116,7 +116,7 @@
                             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s"
                                 style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                                 <div class="section-title position-relative mx-auto mb-4 pb-4">
-                                    <h3 class="fw-bold mb-0">Kochi</h3>
+                                    <h3 class="fw-bold mb-0">KOCHI</h3>
                                 </div>
                                 <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Marampally, Aluva,
                                     Kerala.

@@ -785,12 +785,18 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mt-lg-n5">
-                        <div class="bg-light rounded" style="padding: 30px">
-                            <input type="text" class="form-control border-0 py-2 mb-2" placeholder="Name" />
-                            <input type="email" class="form-control border-0 py-2 mb-2" placeholder="Email" />
-                            <textarea class="form-control border-0 mb-2" rows="2" placeholder="Message"></textarea>
-                            <button class="btn btn-primary w-100 py-2">Send Message</button>
-                        </div>
+                        <form action="mail/mail.php" method="post" enctype="multipart/form-data" autocomplete="off">
+                            <div class="bg-light rounded" style="padding: 30px">
+                                <input type="text" id="name" name="name" class="form-control border-0 py-2 mb-2"
+                                    placeholder="Name" required />
+                                <input type="email" id="email" name="email" class="form-control border-0 py-2 mb-2"
+                                    placeholder="Email" required />
+                                <textarea id="message" name="message" class="form-control border-0 mb-2" rows="2"
+                                    placeholder="Message" required></textarea>
+                                <button class="btn btn-primary w-100 py-2" name="submit" type="submit">Send
+                                    Message</button>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>

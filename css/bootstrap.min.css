@@ -708,8 +708,8 @@ progress {
     .container-xl,
     .container-xxl {
       max-width: 1870px;
-    }
   }
+}
 
 .row {
   --bs-gutter-x: 1.5rem;
