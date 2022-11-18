@@ -102,14 +102,30 @@
                 </div>
                 <div class="row g-5">
                     <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="section-title position-relative mx-auto mb-4 pb-4">
-                            <h3 class="fw-bold mb-0">INDIA</h3>
+                        <div class="row g-5">
+                            <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                                <div class="section-title position-relative mx-auto mb-4 pb-4">
+                                    <h3 class="fw-bold mb-0">Thrissur</h3>
+                                </div>
+                                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>2nd Floor Vimala
+                                    Building,</br>Thrissur. Kerala, India.</p>
+                                <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+91 - 4872 426638</p>
+                                <p class="mb-2"><i class="fa fa-mobile-alt text-primary me-3"></i>+91 - 94968 39168</p>
+                                <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@infinio.co.in</p>
+                            </div>
+                            <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s"
+                                style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                <div class="section-title position-relative mx-auto mb-4 pb-4">
+                                    <h3 class="fw-bold mb-0">Kochi</h3>
+                                </div>
+                                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Marampally, Aluva,
+                                    Kerala.
+                                </p>
+                                <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+91 - 97454 50618</p>
+                                <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@infinio.co.in</p>
+
+                            </div>
                         </div>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>2nd Floor Vimala
-                            Building,</br>Thrissur. Kerala, India.</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+91 - 4872426638</p>
-                        <p class="mb-2"><i class="fa fa-mobile-alt text-primary me-3"></i>+91 - 9496839168</p>
-                        <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@infinio.co.in</p>
                         <div class="pt-4 section-title position-relative mx-auto mb-4 pb-4">
                             <h3 class="fw-bold mb-0">DUBAI</h3>
                         </div>
@@ -126,42 +142,6 @@
                             frameborder="0" style="min-height: 300px; border:0;" allowfullscreen="" aria-hidden="false"
                             tabindex="0"></iframe>
                     </div>
-                    <!-- <div class="col-lg-4 col-md-4">
-                        <div class="wow fadeInUp" data-wow-delay="0.2s">
-                            <form>
-                                <div class="row g-3">
-                                    <div class="col-md-6">
-                                        <div class="form-floating">
-                                            <input type="text" class="form-control" id="name" placeholder="Your Name">
-                                            <label for="name">Your Name</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="form-floating">
-                                            <input type="email" class="form-control" id="email" placeholder="Your Email">
-                                            <label for="email">Your Email</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="form-floating">
-                                            <input type="text" class="form-control" id="subject" placeholder="Subject">
-                                            <label for="subject">Subject</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="form-floating">
-                                            <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 150px"></textarea>
-                                            <label for="message">Message</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div> -->
-
                 </div>
             </div>
         </div>
