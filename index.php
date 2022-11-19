@@ -59,9 +59,9 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0">
                         <div class="nav-item dropdown">
-                            <a href="services/services.php" class="nav-link"
-                            >Services</a>
-                            <!-- <div class="dropdown-menu m-0">
+                            <a href="services/services.php" class="nav-link dropdown-toggle"
+                                data-bs-toggle="dropdown">Services</a>
+                            <div class="dropdown-menu m-0">
                                 <a href="services/web-application-dev.php" class="dropdown-item">Web Application
                                     Development</a>
                                 <a href="services/enterprise-application-development-services.php"
@@ -75,11 +75,11 @@
                                 <a href="services/learning-management-system.php" class="dropdown-item">Learning
                                     Management System</a>
                                 <a href="services/technology-training.php" class="dropdown-item">Technology Training</a>
-                            </div> -->
+                            </div>
                         </div>
                         <div class="nav-item dropdown">
-                            <a href="industries/index.php" class="nav-link" >Industries</a>
-                            <!-- <div class="dropdown-menu m-0">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
+                            <div class="dropdown-menu m-0">
                                 <a href="industries/education.php" class="dropdown-item">Education</a>
                                 <a href="industries/e-governance.php" class="dropdown-item">E-Governance</a>
                                 <a href="industries/retail-and-ecommerce.php" class="dropdown-item">Retail and
@@ -87,24 +87,24 @@
                                 <a href="industries/real-estate.php" class="dropdown-item">Real Estate</a>
                                 <a href="industries/health-care.php" class="dropdown-item">Health Care</a>
                                 <a href="industries/building-automation.php" class="dropdown-item">Building
-                                    Automation</a> -->
-                            <!-- </div> -->
+                                    Automation</a>
+                            </div>
                         </div>
-                        <a href="technologies/index.php" class="nav-link">Technologies</a>
+                        <a href="technologies/index.php" class="nav-item nav-link">Technologies</a>
                         <div class="nav-item dropdown">
-                            <a href="company/about.php" class="nav-link " >About us</a>
-                            <!-- <div class="dropdown-menu m-0">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Company</a>
+                            <div class="dropdown-menu m-0">
                                 <a href="company/about.php" class="dropdown-item">About us</a>
-                                <a href="company/team.php" class="dropdown-item">Leadership</a> -->
+                                <!-- <a href="company/team.php" class="dropdown-item">Leadership</a> -->
                                 <!-- <a href="comparison.html" class="dropdown-item">Life at Infinio</a> -->
-                                <!-- <a href="company/careers.php" class="dropdown-item">Careers</a>
-                            </div> -->
+                                <!-- <a href="company/careers.php" class="dropdown-item">Careers</a> -->
+                            </div>
                         </div>
                         <div class="nav-item dropdown">
-                            <a href="insight/blog.php" class="nav-link" >Blog</a>
-                            <!-- <div class="dropdown-menu m-0">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Insights</a>
+                            <div class="dropdown-menu m-0">
                                 <a href="insight/blog.php" class="dropdown-item">Blog</a>
-                            </div> -->
+                            </div>
                         </div>
                         <a href="contact/index.php" class="nav-item nav-link">Contact</a>
                     </div>
@@ -112,7 +112,7 @@
                             <i class="fa fa-search"></i>
                         </butaton>
                         <a href="" class="btn btn-secondary py-2 px-4 ms-3">Register</a>-->
-                
+                </div>
             </nav>
 
             <div class="container-xxl py-5 bg-primary hero-header mb-5">
