@@ -2,9 +2,9 @@
 
 // DB credentials.
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'infinio');
+define('DB_USER', 'infinio_infino');
+define('DB_PASS', 'infino@123');
+define('DB_NAME', 'infinio_infinio');
 //echo "connecdted ";
 // Establish database connection.
 try {
