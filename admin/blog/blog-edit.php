@@ -12,10 +12,15 @@ if (strlen($_SESSION['alogin']) == 0) {
             $thumb = $_POST['Oldthumb'];
 
             $title = $_POST['title'];
+
+            $slug = strtolower(preg_replace('/[^a-zA-Z0-9\-]/', '', preg_replace('/\s+/', '-', $title)));
             $content = $_POST['content'];
             $authername = $_POST['autherName'];
 
-            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogImg',thumbnail='$thumb' where id='$id'";
+            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogImg',thumbnail='$thumb',slug='$slug' where id='$id'";
+            // print_r($sql);
+            // exit();
+
             $query = $dbh->prepare($sql);
             $result = $query->execute();
             if ($query->rowCount() > 0) {
@@ -29,6 +34,8 @@ if (strlen($_SESSION['alogin']) == 0) {
             $id = $_POST['id'];
 
             $title = $_POST['title'];
+
+            $slug = strtolower(preg_replace('/[^a-zA-Z0-9\-]/', '', preg_replace('/\s+/', '-', $title)));
             $content = $_POST['content'];
             $authername = $_POST['autherName'];
 
@@ -41,7 +48,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             move_uploaded_file($_FILES['blogimg']['tmp_name'], $file2);
             $blogimage = basename($_FILES["blogimg"]["name"]);
 
-            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogimage',thumbnail='$thumb' where id='$id'";
+            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogimage',thumbnail='$thumb',slug='$slug' where id='$id'";
             $query = $dbh->prepare($sql);
             $result = $query->execute();
             if ($query->rowCount() > 0) {
@@ -56,6 +63,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             $blogimage = $_POST['OldblogImage'];
 
             $title = $_POST['title'];
+            $slug = strtolower(preg_replace('/[^a-zA-Z0-9\-]/', '', preg_replace('/\s+/', '-', $title)));
             $content = $_POST['content'];
             $authername = $_POST['autherName'];
 
@@ -65,7 +73,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             move_uploaded_file($_FILES['thumb']['tmp_name'], $file);
             $thumb = basename($_FILES["thumb"]["name"]);
 
-            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogimage',thumbnail='$thumb' where id='$id'";
+            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogimage',thumbnail='$thumb',slug='$slug' where id='$id'";
 
             $query = $dbh->prepare($sql);
             $result = $query->execute();
@@ -81,6 +89,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             $thumb = $_POST['Oldthumb'];
 
             $title = $_POST['title'];
+            $slug = strtolower(preg_replace('/[^a-zA-Z0-9\-]/', '', preg_replace('/\s+/', '-', $title)));
             $content = $_POST['content'];
             $authername = $_POST['autherName'];
 
@@ -90,7 +99,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             move_uploaded_file($_FILES['blogimg']['tmp_name'], $file2);
             $blogimage = basename($_FILES["blogimg"]["name"]);
 
-            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogimage',thumbnail='$thumb' where id='$id'";
+            $sql = "UPDATE  blog SET title='$title',content='$content',autherName='$authername',image='$blogimage',thumbnail='$thumb',slug='$slug' where id='$id'";
 
             $query = $dbh->prepare($sql);
             $result = $query->execute();

@@ -8,6 +8,12 @@ if (strlen($_SESSION['alogin']) == 0) {
 
     if (isset($_POST['blogBTN'])) {
         $title = $_POST['title'];
+
+        // $string = $result->title;
+        $slug = strtolower(preg_replace('/[^a-zA-Z0-9\-]/', '', preg_replace('/\s+/', '-', $title)));
+
+
+
         $content = $_POST['content'];
         $authername = $_POST['autherName'];
         $folder = '../uploads/';
@@ -20,7 +26,7 @@ if (strlen($_SESSION['alogin']) == 0) {
         $blogimage = basename($_FILES["blogimg"]["name"]);
 
         $status = '1';
-        $sql = "INSERT INTO blog(title,content,autherName,thumbnail,image,status) VALUES ('" . $title . "','" . $content . "','" . $authername . "','" . $thumb . "','" . $blogimage . "','" . $status . "')";
+        $sql = "INSERT INTO blog(title,content,autherName,thumbnail,image,status,slug) VALUES ('" . $title . "','" . $content . "','" . $authername . "','" . $thumb . "','" . $blogimage . "','" . $status . "','" . $slug . "')";
         $query = $dbh->prepare($sql);
         $result = $query->execute();
         if ($query->rowCount() > 0) {

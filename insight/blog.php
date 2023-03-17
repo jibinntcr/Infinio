@@ -128,7 +128,8 @@ include('../admin/includes/config.php');
                             </div>
                             <div class="text-center border-bottom p-4">
                                 <a class="btn btn-primary px-4 py-2"
-                                    href="blog-content.php?id=<?php echo   $result->id ?>" target="_blank">Read More</a>
+                                    href="blog-content.php?slug=<?php echo $result->slug ?>" target="_blank">Read
+                                    More</a>
                             </div>
                         </div>
                     </div>
