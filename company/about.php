@@ -206,35 +206,48 @@
                     <div class="container">
                         <div class="row logo-wrap">
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/cusatTBI.png" alt="">
+                                <img class="d-block mx-auto" src="../img/cusatTBI.png" alt="CUsat TBI Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/dca.png" alt="">
+                                <img class="d-block mx-auto" src="../img/dca.png" alt="DCA CUSAT Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/leads.png" alt="">
+                                <img class="d-block mx-auto" src="../img/leads.png" alt="Leads Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/mudracolo.png" alt="">
+                                <img class="d-block mx-auto" src="../img/mudracolo.png" alt="Mudra Logo">
                             </a>
                             <a class="col single-img mb-5" href=" #">
-                                <img class="d-block mx-auto" src="../img/metatbi.png" alt="">
+                                <img class="d-block mx-auto" src="../img/metatbi.png" alt="MetaValley Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/finder.png" alt="">
+                                <img class="d-block mx-auto" src="../img/finder.png" alt="Finder Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/zamra.png" alt="">
+                                <img class="d-block mx-auto" src="../img/zamra.png" alt="Zamra Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/polyhack.png" alt="">
+                                <img class="d-block mx-auto" src="../img/polyhack.png" alt="PolyHack Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/newply.png" alt="">
+                                <img class="d-block mx-auto" src="../img/newply.png" alt="Newply Logo">
                             </a>
                             <a class="col single-img mb-5" href="#">
-                                <img class="d-block mx-auto" src="../img/zeka.png" alt="">
+                                <img class="d-block mx-auto" src="../img/zeka.png" alt="Zeka Logo">
                             </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/shiptech.png" alt="Shiptech Logo">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/amigos.png" alt="Amigos Logo">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/glorified.png" alt="Glorified Logo">
+                            </a>
+                            <a class="col single-img mb-5" href="#">
+                                <img class="d-block mx-auto" src="../img/neom.png" alt="Neom Logo">
+                            </a>
+
 
                         </div>
                     </div>
