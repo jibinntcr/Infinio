@@ -26,8 +26,9 @@ if (strlen($_SESSION['alogin']) == 0) {
         $blogimage = basename($_FILES["blogimg"]["name"]);
 
         $status = '1';
-        $sql = "INSERT INTO blog(title,content,autherName,thumbnail,image,status,slug) VALUES ('" . $title . "','" . $content . "','" . $authername . "','" . $thumb . "','" . $blogimage . "','" . $status . "','" . $slug . "')";
+        $sql = "INSERT INTO blog(title,content,autherName,thumbnail,image,status,slug) VALUES (:title ,'" . $content . "','" . $authername . "','" . $thumb . "','" . $blogimage . "','" . $status . "','" . $slug . "')";
         $query = $dbh->prepare($sql);
+        $query->bindParam(':title', $title, PDO::PARAM_STR);
         $result = $query->execute();
         if ($query->rowCount() > 0) {
             echo '<script>alert("Success")</script>';
@@ -135,7 +136,7 @@ if (strlen($_SESSION['alogin']) == 0) {
                         </form>
                         <script>
                         CKEDITOR.replace('content');
-                        CKEDITOR.replace('title');
+                        // CKEDITOR.replace('title');
                         </script>
                     </div>
                 </div>
