@@ -108,7 +108,7 @@ include('../admin/includes/config.php');
                 </div>
                 <div class="row gy-5 gx-4">
                     <?php
-                    $sql = "SELECT * from blog where status='1'";
+                    $sql = "SELECT * from blog where status='1' ORDER BY `blog`.`date` DESC ";
                     $query = $dbh->prepare($sql);
                     $query->execute();
                     $results = $query->fetchAll(PDO::FETCH_OBJ);
